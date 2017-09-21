@@ -9,15 +9,26 @@ import { ListPage } from '../pages/list/list';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
+import { CategoriesProvider } from '../providers/categories/categories';
+
+import { AngularFireModule } from 'angularfire2';
+import { firebaseConfig } from '../environment';
+import { AngularFireDatabaseModule } from 'angularfire2/database';
+
+import { FaIconComponent } from "../components/fa-icon/fa-icon";
+
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
-    ListPage
+    ListPage,
+    FaIconComponent
   ],
   imports: [
     BrowserModule,
     IonicModule.forRoot(MyApp),
+    AngularFireModule.initializeApp(firebaseConfig), // imports firebase/app needed for everything
+    AngularFireDatabaseModule // imports firebase/database, only needed for database features
   ],
   bootstrap: [IonicApp],
   entryComponents: [
@@ -28,7 +39,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   providers: [
     StatusBar,
     SplashScreen,
-    {provide: ErrorHandler, useClass: IonicErrorHandler}
+    {provide: ErrorHandler, useClass: IonicErrorHandler},
+    CategoriesProvider
   ]
 })
 export class AppModule {}

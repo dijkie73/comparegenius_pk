@@ -16,6 +16,27 @@
         {{item.note}}
       </div>
     </button>
+    <button ion-item>
+      <ion-icon class="fa fa-television" item-left></ion-icon>
+      Televisions
+      <div class="item-note" item-right>
+        This is item #11
+      </div>
+    </button>
+    <button ion-item>
+      <i class="fa fa-television" aria-hidden="true" item-left></i>
+      Televisions
+      <div class="item-note" item-right>
+        Click to see televisions
+      </div>
+    </button>
+    <button ion-item>
+      <fa-icon name="group" item-left></fa-icon>
+      People
+      <div class="item-note" item-right>
+        This is item #13
+      </div>
+    </button>
   </ion-list>
   <div *ngIf="selectedItem" padding>
     You navigated here from <b>{{selectedItem.title}}</b>
