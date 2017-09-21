@@ -3,10 +3,6 @@ import { Nav, Platform } from 'ionic-angular';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
-import { HomePage } from '../pages/home/home';
-import { ListPage } from '../pages/list/list';
-import { ProductsByCategoryPage } from '../pages/products-by-category/products-by-category';
-import { ProductDetailsPage } from '../pages/product-details/product-details';
 import { Menu } from '../pages/menu/menu';
 
 declare const ENV: any;
@@ -25,13 +21,6 @@ export class MyApp {
       console.log('isProduction : ' + ENV.PRODUCTION);
 
     this.initializeApp();
-
-    // used for an example of ngFor and navigation
-    this.pages = [
-      { title: 'Home', component: HomePage },
-      { title: 'List', component: ListPage }
-    ];
-
   }
 
   initializeApp() {

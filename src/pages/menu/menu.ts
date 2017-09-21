@@ -1,5 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { NavController, NavParams } from 'ionic-angular';
 import { HomePage } from '../home/home';
 import { ProductsByCategoryPage } from '../products-by-category/products-by-category';
 import { CategoriesProvider } from '../../providers/categories/categories';

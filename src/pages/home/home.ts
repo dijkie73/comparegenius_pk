@@ -5,7 +5,7 @@ import * as Constant from '../../environment';
 import { FirebaseListObservable } from 'angularfire2/database';
 import { ProductsProvider } from '../../providers/products/products';
 import { ProductDetailsPage } from '../product-details/product-details';
-import { Product, Brand } from '../../model/ecommerce';
+import { Product } from '../../model/ecommerce';
 
 declare var gtag: Function;
 
@@ -45,7 +45,7 @@ export class HomePage {
               this.productSlides.slideTo(0);
           else
               this.productSlides.slideNext();
-      }, 3000)
+      }, 3000);
   }
 
   openProductPage(product) {

@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
-import { Product, Category } from '../../model/ecommerce';
+import { Product } from '../../model/ecommerce';
 import * as Constant from '../../environment';
 
 declare var gtag: Function;
