@@ -1,0 +1,156 @@
+<!--
+  Generated template for the ProductDetailsPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title><h1>{{ product.title }}</h1></ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <ion-card>
+    <ion-slides autoplay="3000" pager>
+      <ion-slide *ngFor="let image of product.images">
+        <img [src]="image.src" height="150" alt="" style="max-height:150px; ; width:auto; margin-left:auto; margin-right:auto;" />
+      </ion-slide>
+    </ion-slides>
+
+    <ion-card-content>
+      <ion-card-title>
+        {{ product.title }} &nbsp;
+        <ion-chip style="margin-left: 5px;">
+          <ion-label color="danger">
+            mobile phones
+          </ion-label>
+        </ion-chip>
+      </ion-card-title>
+      <p [innerHTML]="product.description"></p>
+
+      <ion-list>
+        <<ion-list-header>
+          Compare prices
+        </ion-list-header>
+
+        <ion-item (click)="openURL('https://homeshopping.pk/products/Samsung-Galaxy-S7-Edge-Dual-Sim-Price-In-Pakistan-Black.html', 'homeshopping.pk');">
+          <ion-row>
+            <ion-col class=".prc-tbl__left">
+              <picture class="prc-tbl__logo">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505834086/logo/homeshopping.pk-logo.webp" type="image/webp">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505834086/logo/homeshopping.pk-logo.png" type="image/png">
+                <img src="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505834086/logo/homeshopping.pk-logo.jpg" alt="iShopping.pk logo">
+              </picture>
+            </ion-col>
+            <ion-col>
+              <div class="prc-tbl__prc">Rs. 50,740</div>
+            </ion-col>
+            <ion-col>
+              <div>Visit Store</div>
+            </ion-col>
+          </ion-row>
+        </ion-item>
+
+        <ion-item (click)="openURL('https://www.ishopping.pk/samsung-galaxy-s7-edge-32gb-black-dual-sim-g935fd-price-in-pakistan.html','iShopping.pk');">
+          <ion-row>
+            <ion-col class=".prc-tbl__left">
+              <picture class="prc-tbl__logo">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505833248/logo/ishopping.pk-logo.webp" type="image/webp">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505833248/logo/ishopping.pk-logo.png" type="image/png">
+                <img src="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505833248/logo/ishopping.pk-logo.jpg" alt="iShopping.pk logo">
+              </picture>
+            </ion-col>
+            <ion-col>
+              <div class="prc-tbl__prc">Rs. 50,749</div>
+            </ion-col>
+            <ion-col>
+              <div>Visit Store</div>
+            </ion-col>
+          </ion-row>
+        </ion-item>
+
+        <ion-item (click)="openURL('http://www.mega.pk/mobiles_products/13771/Samsung-Galaxy-S7-Edge.html', 'mega.pk');">
+          <ion-row>
+            <ion-col class=".prc-tbl__left">
+              <picture class="prc-tbl__logo">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505836422/logo/mega.pk-logo.webp" type="image/webp">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505836422/logo/mega.pk-logo.png" type="image/png">
+                <img src="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505836422/logo/mega.pk-logo.jpg" alt="Yayvo.com logo">
+              </picture>
+            </ion-col>
+            <ion-col>
+              <div class="prc-tbl__prc">Rs. 51,099</div>
+            </ion-col>
+            <ion-col>
+              <div>Visit Store</div>
+            </ion-col>
+          </ion-row>
+        </ion-item>
+
+        <ion-item (click)="openURL('http://yayvo.com/samsung-g935f-blue.html', 'yayvo.com');">
+          <ion-row>
+            <ion-col class=".prc-tbl__left">
+              <picture class="prc-tbl__logo">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505830461/logo/yayvo_logo.webp" type="image/webp">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505830461/logo/yayvo_logo.png" type="image/png">
+                <img src="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505830461/logo/yayvo_logo.jpg" alt="Yayvo.com logo">
+              </picture>
+            </ion-col>
+            <ion-col>
+              <div class="prc-tbl__prc">Rs. 64,499</div>
+            </ion-col>
+            <ion-col>
+              <div>Visit Store</div>
+            </ion-col>
+          </ion-row>
+        </ion-item>
+
+        <ion-item (click)="openURL('http://www.symbios.pk/samsung-galaxy-s7-edge-32gb-dual-sim', 'symbios.pk')">
+          <ion-row>
+            <ion-col class=".prc-tbl__left">
+              <picture class="prc-tbl__logo">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505837290/logo/symbios.pk-logo.webp" type="image/webp">
+                <source srcset="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505837290/logo/symbios.pk-logo.png" type="image/png">
+                <img src="https://res.cloudinary.com/comparegenius/image/upload/c_scale,h_33,q_auto/v1505837290/logo/symbios.pk-logo.jpg" alt="Yayvo.com logo">
+              </picture>
+            </ion-col>
+            <ion-col>
+              <div class="prc-tbl__prc">Rs. 64,699</div>
+            </ion-col>
+            <ion-col>
+              <div>Visit Store</div>
+            </ion-col>
+          </ion-row>
+        </ion-item>
+
+      </ion-list>
+
+          <ion-row>
+            <ion-col>
+              <div>$ 10.00</div>
+            </ion-col>
+            <ion-col>
+              <div> x</div>
+            </ion-col>
+            <ion-col>
+              <div> 3</div>
+            </ion-col>
+            <ion-col>
+              <button ion-button icon-left clear small>
+                <ion-icon name="text"></ion-icon>
+              </button>
+            </ion-col>
+          </ion-row>
+          <button ion-button icon-left block outline color="danger">
+            <ion-icon name="basket"></ion-icon> Add to Cart
+          </button>
+
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>

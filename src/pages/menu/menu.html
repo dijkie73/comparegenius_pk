@@ -1,0 +1,35 @@
+<!--<ion-split-pane>-->
+<ion-menu [content]="content">
+  <ion-header>
+    <ion-toolbar>
+      <ion-title>Menu</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content>
+    <ion-list>
+      <ion-item>
+        <h2><ion-icon name="home"></ion-icon>Home</h2>
+      </ion-item>
+      <ion-item *ngFor="let category of categoryList | async" text-wrap (click)="openCategoryPage(category)" menuClose>
+        <ion-icon [name]="category.icon" item-left large></ion-icon>
+        <h2>
+          {{ category.name }}
+        </h2>
+      </ion-item>
+
+      <ion-item text-wrap (click)="openInvolvePage()">
+        <ion-icon name="home" item-left large></ion-icon>
+        <h2>
+          Involve
+        </h2>
+      </ion-item>
+
+
+    </ion-list>
+  </ion-content>
+
+</ion-menu>
+
+<ion-nav [root]="homePage" #content main></ion-nav>
+<!--</ion-split-pane>-->

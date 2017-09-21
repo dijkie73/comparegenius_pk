@@ -1,0 +1,49 @@
+page-product-details {
+
+  .prc-tbl__logo .prc-tbl__rght {
+    float: right;
+  }
+
+  .prc-tbl__left {
+    float: left;
+    text-align: left;
+  }
+
+  .prc-tbl__logo {
+    position: relative;
+    display: block;
+    width: 60px;
+    height: 20px;
+  }
+
+  .prc-tbl__prc {
+    margin-bottom: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0d426c;
+  }
+
+  .prc-tbl__GTS {
+    width: 100px;
+    height: 40px;
+    padding: 3px 6px;
+    line-height: 17px;
+    text-align: left;
+    white-space: pre;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .prc-tbl__line {
+    position: relative;
+    min-height: 40px;
+    padding: 10px;
+    border-bottom: 1px solid #f2f3f5;
+    text-align: center;
+  }
+
+  .prc-tbl__line--tag {
+    padding: 15px 10px 10px 10px;
+  }
+}

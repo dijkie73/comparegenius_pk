@@ -1,0 +1,85 @@
+<!--
+  Generated template for the ProductsByCategoryPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-buttons left>
+      <button color="danger" ion-button icon menuToggle>
+        <ion-icon name="menu"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title>Products by Category</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let product of productsList | async" text-wrap>
+      <ion-thumbnail item-left>
+        <img [src]="product.featuredImage" height="80" alt="" style="max-height:80px; width:auto; margin-left:auto; margin-right:auto;" />
+      </ion-thumbnail>
+
+      <h2> {{ product.title }} </h2>
+      <p>
+        <span [innerHTML]="product.shortDescription.substr(0,50) + '...'"></span>
+        <span>Rs. 45,220 - Rs. 54,333</span>
+        <!--<span [innerHTML]="product.price"></span>-->
+      </p>
+
+      <button ion-button icon clear item-right>
+         <ion-icon name="arrow-forward"></ion-icon>
+      </button>
+    </ion-item>
+  </ion-list>
+
+</ion-content>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "url": "http://multivarki.ru?filters%5Bprice%5D%5BLTE%5D=39600",
+  "numberOfItems": "315",
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "name": "Executive Anvil",
+      "image": [
+        "https://example.com/photos/1x1/photo.jpg",
+        "https://example.com/photos/4x3/photo.jpg",
+        "https://example.com/photos/16x9/photo.jpg"
+      ],
+      "brand": {
+        "@type": "Thing",
+        "name": "ACME"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "89"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "119.99",
+        "highPrice": "199.99",
+        "offerCount": 2,
+        "priceCurrency": "PKR"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "..."
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": "4399 p."
+  }
+}
+</script>

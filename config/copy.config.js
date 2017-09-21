@@ -7,5 +7,9 @@ module.exports = {
     copyRobotsTxt: {
         src: ['{{ROOT}}/src/robots.txt'],
         dest: '{{WWW}}/'
+    },
+    copyFavIcon: {
+        src: ['{{ROOT}}/src/assets/ico/favicon.ico'],
+        dest: '{{WWW}}/'
     }
 };

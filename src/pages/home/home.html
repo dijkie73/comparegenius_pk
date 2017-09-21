@@ -3,16 +3,36 @@
     <button ion-button menuToggle>
       <ion-icon name="menu"></ion-icon>
     </button>
-    <ion-title>Home</ion-title>
+    <ion-title>CompareGenius.pk</ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  <h3>Ionic Menu Starter</h3>
+<ion-content no-padding>
 
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will show you the way.
-  </p>
+  <ion-card>
+    <ion-slides loop=true autoplay="3000" pager>
+      <ion-slide *ngFor="let number of [1,2,3,4,5]">
+        <!--<img src="./assets/images/1.jpg" />-->
+        <img src="./assets/images/{{number}}.jpg" />
+      </ion-slide>
+    </ion-slides>
+  </ion-card>
 
-  <button ion-button secondary menuToggle>Toggle Menu</button>
+  <img style="margin-top: 10px;" src="https://rukminim1.flixcart.com/flap/698/272/image/7156ae.jpg?q=90" />
+
+  <ion-grid>
+    <ion-row>
+      <ion-slides #productSlides pager>
+        <ion-slide *ngFor="let product of productsList$ | async" (click)="openProductPage(product)">
+          <ion-card no-padding>
+            <img [src]="product.featuredImage" />
+            <h1 padding center> {{ product.title }} </h1>
+            <p padding center> {{ product.shortDescription }} </p>
+          </ion-card>
+
+        </ion-slide>
+      </ion-slides>
+    </ion-row>
+  </ion-grid>
+
 </ion-content>

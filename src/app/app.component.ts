@@ -5,6 +5,9 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
+import { ProductsByCategoryPage } from '../pages/products-by-category/products-by-category';
+import { ProductDetailsPage } from '../pages/product-details/product-details';
+import { Menu } from '../pages/menu/menu';
 
 declare const ENV: any;
 
@@ -14,7 +17,7 @@ declare const ENV: any;
 export class MyApp {
   @ViewChild(Nav) nav: Nav;
 
-  rootPage: any = HomePage;
+  rootPage: any = Menu;
 
   pages: Array<{title: string, component: any}>;
 
