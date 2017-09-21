@@ -15,20 +15,22 @@ import { AngularFireModule } from 'angularfire2';
 import { firebaseConfig } from '../environment';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 
-import { FaIconComponent } from "../components/fa-icon/fa-icon";
+import { ComponentsModule } from '../components/components.module';
+
+//import { FaIconComponent } from "../components/fa-icon/fa-icon";
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
-    ListPage,
-    FaIconComponent
+    ListPage
   ],
   imports: [
     BrowserModule,
     IonicModule.forRoot(MyApp),
     AngularFireModule.initializeApp(firebaseConfig), // imports firebase/app needed for everything
-    AngularFireDatabaseModule // imports firebase/database, only needed for database features
+    AngularFireDatabaseModule, // imports firebase/database, only needed for database features
+    ComponentsModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [
