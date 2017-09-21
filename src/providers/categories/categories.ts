@@ -7,66 +7,75 @@ import { Category } from '../../model/ecommerce';
 export class CategoriesProvider {
     private basePath: string = '/categories';
 
-    categories: FirebaseListObservable<Category[]> = null; //  list of objects
-    category: FirebaseObjectObservable<Category> = null; //   single object
+    categories$: FirebaseListObservable<Category[]> = null; //  list of objects
+    category$: FirebaseObjectObservable<Category> = null; //   single object
 
     constructor(private db: AngularFireDatabase) {
-        this.categories = this.getCategoriesList();
+        this.categories$ = this.getCategoriesList();
     }
 
     getCategoriesList(query = {}): FirebaseListObservable<Category[]> {
-        this.categories = this.db.list(this.basePath, {
+        this.categories$ = this.db.list(this.basePath, {
             query: query
         });
 
-        return this.categories;
+        return this.categories$;
     }
 
     // returns a list of main categories, so filtered on parentKey = 0 (no parentt)
     getMainCategoriesList(query = {}): FirebaseListObservable<Category[]> {
-        this.categories = this.db.list(this.basePath, {
+        this.categories$ = this.db.list(this.basePath, {
             query: {
                 orderByChild: 'parentKey',
                 equalTo: '0'
             }
         });
 
-        return this.categories;
+        return this.categories$;
     }
 
+    // returns a list of main categories, so filtered on parentKey = 0 (no parentt)
+    getSubCategoriesList(categoryKey: string): FirebaseListObservable<Category[]> {
+        this.categories$ = this.db.list(this.basePath, {
+            query: {
+                orderByChild: 'parentKey',
+                equalTo: categoryKey
+            }
+        });
+
+        return this.categories$;
+    }
     // CRUD operations
 
     // Return a single observable category with $key == key
     getCategory(key: string): FirebaseObjectObservable<Category> {
         const categoryPath = '${this.basePath}/${key}';
 
-        this.category = this.db.object(categoryPath);
+        this.category$ = this.db.object(categoryPath);
 
-        return this.category;
+        return this.category$;
     }
 
     // Create a new category
     createCategory(category: Category): void {
 
-        this.categories.push(category)
+        this.categories$.push(category)
             .catch(error => this.handleError(error));
-
-        console.log('createCat f:');
     }
 
     // Update an existing category
     updateCategory(key: string, value: any): void {
-        this.categories.update(key, value)
+        this.categories$.update(key, value)
             .catch(error => this.handleError(error));
     }
     // Deletes a single category
     deleteCategory(key: string): void {
-        this.categories.remove(key)
+        this.categories$.remove(key)
             .catch(error => this.handleError(error));
     }
     // Deletes the entire list of categories
     deleteAll(): void {
-        this.categories.remove()
+        this.categories$.remove()
             .catch(error => this.handleError(error));
     }
     // Default error handling for all actions

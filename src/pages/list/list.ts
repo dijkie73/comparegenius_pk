@@ -3,7 +3,7 @@ import { NavController, NavParams } from 'ionic-angular';
 import * as Constant from '../../environment';
 
 import { CategoriesProvider } from '../../providers/categories/categories';
-import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
+import { FirebaseListObservable } from 'angularfire2/database';
 import { Category } from '../../model/ecommerce';
 
 declare var gtag: Function;
@@ -17,11 +17,11 @@ export class ListPage {
   icons: string[];
   items: Array<{ title: string, note: string, icon: string }>;
 
-  categories: FirebaseListObservable<Category[]>;
+  categories$: FirebaseListObservable<Category[]>;
 
   constructor(private categoryProvider: CategoriesProvider, public navCtrl: NavController, public navParams: NavParams) {
 
-    ////this.categoryProvider = new CategoriesProvider(db);
+      this.categories$ = this.categoryProvider.getMainCategoriesList();
 
     //var cat: Category = new Category();
     //cat.active = true;
