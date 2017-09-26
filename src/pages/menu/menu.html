@@ -1,31 +1,17 @@
 <!--<ion-split-pane>-->
 <ion-menu [content]="content">
+
   <ion-header>
-    <ion-toolbar>
-      <ion-title>Menu</ion-title>
-    </ion-toolbar>
+    <button ion-item (click)="openHomePage()" menuClose>
+      <h2><i class="fa fa-home fa-fw" item-left aria-hidden="true"></i>&nbsp; Home</h2>
+    </button>
   </ion-header>
 
   <ion-content>
     <ion-list>
-      <ion-item>
-        <h2><ion-icon name="home"></ion-icon>Home</h2>
-      </ion-item>
-      <ion-item *ngFor="let category of categoryList | async" text-wrap (click)="openCategoryPage(category)" menuClose>
-        <ion-icon [name]="category.icon" item-left large></ion-icon>
-        <h2>
-          {{ category.name }}
-        </h2>
-      </ion-item>
-
-      <ion-item text-wrap (click)="openInvolvePage()">
-        <ion-icon name="home" item-left large></ion-icon>
-        <h2>
-          Involve
-        </h2>
-      </ion-item>
-
-
+      <button ion-item *ngFor="let category of categoryList$ | async" text-wrap (click)="openCategoryPage(category)" menuClose>
+        <i class="fa fa-{{category.faIcon}} fa-fw" item-left aria-hidden="true"></i>&nbsp; {{ category.name["en-PK"] }}
+      </button>
     </ion-list>
   </ion-content>
 

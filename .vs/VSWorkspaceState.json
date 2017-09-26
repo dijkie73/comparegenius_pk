@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\model",
+    "\\src\\pages",
+    "\\src\\pages\\product-details",
+    "\\src\\pages\\products-by-category",
+    "\\src\\providers",
+    "\\src\\providers\\features",
+    "\\src\\providers\\htmlhead",
+    "\\src\\theme"
   ],
+  "SelectedNode": "\\src\\model\\features.ts",
   "PreviewInSolutionExplorer": false
 }

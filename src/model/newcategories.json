@@ -1,0 +1,250 @@
+[
+  {
+    "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c",
+    "key": "electronics",
+    "version": 1,
+    "name": {
+      "nl": "Elektronica",
+      "en": "Electronics",
+      "en-PK": "Electronics"
+    },
+    "slug": {
+      "en": "electronics",
+      "en-PK": "electronics",
+      "nl": "elektronica"
+    },
+    "description": {
+      "en": "<p>Electronics</p>",
+      "en-PK": "<p>Electronics</p>",
+      "nl": "<p>Elektronica</p>"
+    },
+    "ancestors": [],
+    "orderHint": 0.00001506334851180815784309,
+    "createdAt": "2017-09-25T10:20:51.180Z",
+    "lastModifiedAt": "2017-09-25T11:12:46.974Z",
+    "metaTitle": {
+      "en": "Compare Best Electronics Deals Online | CompareGenius",
+      "en-PK": "Compare Best Electronics Deals Pakistan | CompareGenius.pk",
+      "nl": "Vergelijk de Beste Electronika Deals | CompareGenius.nl"
+    },
+    "metaDescription": {
+      "en": "Compare the latest electronics products of all online shops on CompareGenius. Compare Cheapest Prices and Best Deals for camera's. laptops, mobile phones and tablets.",
+      "en-PK": "Compare the latest electronics products of all online shops in Pakistan on CompareGenius.pk. Compare Cheapest Prices and Best Deals in Pakistan for camera's. laptops, mobile phones and tablets.",
+      "nl": "Vergelijk de nieuwste elektronica van alle online winkels op CompareGenius.nl. Vergelijk en vind de goedkoopste en beste prijs voor Camera’s, laptops, mobiele telefoons, navigatie en tablets."
+    },
+    "assets": [],
+    "active": true,
+    "faIcon": "fa-plug",
+    "googleCategoryId": 222
+  },
+  {
+    "id": "66e8efb9-8e5d-4c17-a320-dac1c830aa15",
+    "key": "smart-phones",
+    "version": 1,
+    "name": {
+      "en": "Smart Phones"
+    },
+    "slug": {
+      "nl": "smart-phones-1506338115482",
+      "en": "smart-phones-1506338115482"
+    },
+    "ancestors": [
+      {
+        "typeId": "category",
+        "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+      },
+      {
+        "typeId": "category",
+        "id": "1dad6ffa-8072-48de-b0b1-4f0c2e5966f2"
+      }
+    ],
+    "parent": {
+      "typeId": "category",
+      "id": "1dad6ffa-8072-48de-b0b1-4f0c2e5966f2"
+    },
+    "orderHint": "0.000015063381259711853708459",
+    "createdAt": "2017-09-25T11:15:25.971Z",
+    "lastModifiedAt": "2017-09-25T11:15:25.971Z",
+    "assets": [],
+    "active": true,
+    "fa-icon": "fa-mobile",
+    "googleCategoryId": 222
+  },
+  {
+    "key": "mobile-phones",
+    "version": 1,
+    "name": {
+      "nl": "Mobiele Telefoons",
+      "en": "Mobile Phones"
+    },
+    "slug": {
+      "en-PK": "mobile-phones",
+      "nl": "mobiele-telefoons",
+      "en": "mobile-phones"
+    },
+    "ancestors": [
+      {
+        "typeId": "category",
+        "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+      }
+    ],
+    "parent": {
+      "typeId": "category",
+      "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+    },
+    "orderHint": 0.000015063349645541675941314,
+    "createdAt": "2017-09-25T10:22:44.555Z",
+    "lastModifiedAt": "2017-09-25T11:43:29.350Z",
+    "metaTitle": {
+      "nl": "Beste smartphone deals - Nederland",
+      "en-PK": "Latest Smartphones Online in Best Prices - India",
+      "en": "Mobile Phones: Buy Latest Mobile Phones Compare Cheapest Prices and Best Offers From All Stores in Pakistan"
+    },
+    "metaKeywords": {
+      "en-PK": "en-in keywords",
+      "en": "en keywords"
+    },
+    "metaDescription": {
+      "nl": "meta nl",
+      "en-PK": "Buy New Smartphones Online in Pakistan. Compare Best Prices of Online Shops at CompareGenius.pk. Order Latest Smart phones in Best Prices Online in Karachi, Lahore, Islamabad &amp; All Across Pakistan.",
+      "en": "Buy Mobile phones online at best prices: Take your pick from Samsung mobile phones, iphones, Mi mobiles and more. Compare mobile phones and read user reviews on Flipkart to ensure the best buy."
+    },
+    "assets": [],
+    "active": true,
+    "faIcon": "fa-mobile",
+    "googleCategoryId": 267
+  },
+  {
+    "key": "televisions",
+    "version": 1,
+    "name": {
+      "nl": "Televisies",
+      "en": "Televisions"
+    },
+    "slug": {
+      "en-PK": "televisions",
+      "nl": "televisies",
+      "en": "televisions"
+    },
+    "ancestors": [
+      {
+        "typeId": "category",
+        "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+      }
+    ],
+    "parent": {
+      "typeId": "category",
+      "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+    },
+    "orderHint": 0.000015063349645541675941314,
+    "createdAt": "2017-09-25T10:22:44.555Z",
+    "lastModifiedAt": "2017-09-25T11:43:29.350Z",
+    "metaTitle": {
+      "nl": "Beste televisie deals - Nederland",
+      "en-PK": "Latest Televisions Online in Best Prices - Pakistan",
+      "en": "Televisions: Buy Latest Televisions Compare Cheapest Prices and Best Offers From All Stores in Pakistan"
+    },
+    "metaKeywords": {
+      "en-PK": "en-in keywords",
+      "en": "en keywords"
+    },
+    "metaDescription": {
+      "nl": "meta nl",
+      "en-PK": "Buy Televisions Online in Pakistan. Compare Best Prices of Online Shops at CompareGenius.pk. Order Latest Televisions in Best Prices Online all across Pakistan.",
+      "en": "Buy Mobile phones online at best prices: Take your pick from Samsung mobile phones, iphones, Mi mobiles and more. Compare mobile phones and read user reviews on Flipkart to ensure the best buy."
+    },
+    "assets": [],
+    "active": true,
+    "faIcon": "fa-television",
+    "googleCategoryId": 404
+  },
+  {
+    "key": "tablets",
+    "version": 1,
+    "name": {
+      "nl": "Tablets",
+      "en": "Tablets"
+    },
+    "slug": {
+      "en-PK": "tablets",
+      "nl": "tablets",
+      "en": "tablets"
+    },
+    "ancestors": [
+      {
+        "typeId": "category",
+        "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+      }
+    ],
+    "parent": {
+      "typeId": "category",
+      "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+    },
+    "orderHint": 0.000015063349645541675941314,
+    "createdAt": "2017-09-25T10:22:44.555Z",
+    "lastModifiedAt": "2017-09-25T11:43:29.350Z",
+    "metaTitle": {
+      "nl": "Beste tabklet deals - Nederland",
+      "en-PK": "Latest Tablets Online for Best Prices - Pakistan",
+      "en": "Tablets: Buy Latest Tablets Compare Cheapest Prices and Best Offers From All Stores in Pakistan"
+    },
+    "metaKeywords": {
+      "en-PK": "en-in keywords",
+      "en": "en keywords"
+    },
+    "metaDescription": {
+      "nl": "meta nl",
+      "en-PK": "Buy Tablets Online in Pakistan. Compare Best Prices of Online Shops at CompareGenius.pk. Order Latest Televisions in Best Prices Online all across Pakistan.",
+      "en": "Buy Tablets online at best prices: Take your pick from Samsung mobile phones, iphones, Mi mobiles and more. Compare mobile phones and read user reviews on Flipkart to ensure the best buy."
+    },
+    "assets": [],
+    "active": true,
+    "faIcon": "fa-tablet",
+    "googleCategoryId": 4745
+  },
+  {
+    "key": "laptops",
+    "version": 1,
+    "name": {
+      "nl": "Laptops",
+      "en": "Laptops",
+      "en-PK": "Laptops"
+    },
+    "slug": {
+      "en-PK": "laptops",
+      "nl": "laptops",
+      "en": "laptops"
+    },
+    "ancestors": [
+      {
+        "typeId": "category",
+        "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+      }
+    ],
+    "parent": {
+      "typeId": "category",
+      "id": "13266ed5-fc41-4f66-8d8d-ecd1bb56366c"
+    },
+    "orderHint": 0.000015063349645541675941314,
+    "createdAt": "2017-09-25T10:22:44.555Z",
+    "lastModifiedAt": "2017-09-25T11:43:29.350Z",
+    "metaTitle": {
+      "nl": "Beste laptop deals - Nederland",
+      "en-PK": "Latest Laptops Online for Best Prices - Pakistan",
+      "en": "Laptops: Buy Latest Laptops Compare Cheapest Prices and Best Offers From All Stores in Pakistan"
+    },
+    "metaKeywords": {
+      "en-PK": "en-in keywords",
+      "en": "en keywords"
+    },
+    "metaDescription": {
+      "nl": "meta nl",
+      "en-PK": "Buy Laptops Online in Pakistan. Compare Best Prices of Online Shops at CompareGenius.pk. Order Latest laptops in Best Prices Online all across Pakistan.",
+      "en": "Buy Laptops online at best prices: Take your pick from Samsung mobile phones, iphones, Mi mobiles and more. Compare mobile phones and read user reviews on Flipkart to ensure the best buy."
+    },
+    "assets": [],
+    "active": true,
+    "faIcon": "fa-laptop",
+    "googleCategoryId": 328
+  }
+]

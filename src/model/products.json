@@ -1,0 +1,362 @@
+{
+  "product": {
+    "createdAt": "2017-09-25T09:03:00Z",
+    "updatedAt": "2017-09-25T09:03:00Z",
+    "isVisible": true,
+    "slug": "samsung-galaxy-s8",
+    "brand": "Samsung",
+    "productFamily": "Galaxy",
+    "title": "Samsung Galaxy S8 SM-G950",
+    "fulltitle": "Samsung Galaxy S8 SM-G950",
+    "description": "",
+    "categories": [ { "-KuYN3-4v_p1f7UZlAd6" } ],
+    "set": {
+      "id": 16,
+      "updatedAt": "2017-09-25T09:03:00Z",
+      "createdAt": "2017-09-25T09:03:00Z",
+      "options": [
+        {
+          "values": [
+            {
+              "sortOrder": 1,
+              "id": 168,
+              "name": "Midnight Black"
+            },
+            {
+              "sortOrder": 2,
+              "id": 169,
+              "name": "Orchid Gray"
+            }
+          ],
+          "sortOrder": 1,
+          "id": 76,
+          "name": "Color"
+        },
+        {
+          "values": [
+            {
+              "sortOrder": 1,
+              "id": 170,
+              "name": "64GB"
+            }
+          ],
+          "sortOrder": 2,
+          "id": "internalStorage",
+          "name": "Internal Storage"
+        }
+      ],
+      "name": "Smartphone"
+    },
+
+    "body_html": "some awesome description",
+    "handle": "cool-handle",
+    "images": [
+      {
+        "src": "\"http://example.com/1000358.jpg\";"
+      }
+    ],
+    "options": [
+      {
+        "option1": "color",
+        "option2": "memory",
+        "option3": "simtype"
+      }
+    ],
+    {
+      "variants": [
+        {
+          "key": "a",
+          "sku": "",
+          "image_url": null,
+          "title": "Midnight Black",
+          "url": "",
+          "color": "Midnight Black",
+          "memory": "64GB",
+          "simtype": "Single SIM"
+        },
+        {
+          "key": "b",
+          "color": "Midnight Black",
+          "memory": "64GB",
+          "simtype": "Dual SIM"
+        },
+        {
+          "key": "c",
+          "color": "Arctic Silver",
+          "memory": "64GB",
+          "simtype": "Single SIM"
+        },
+        {
+          "key": "d",
+          "color": "Arctic Silver",
+          "memory": "64GB",
+          "simtype": "Dual SIM"
+        },
+        {
+          "key": "e",
+          "color": "Orchid Gray",
+          "memory": "64GB",
+          "simtype": "Single SIM"
+        },
+        {
+          "key": "f",
+          "color": "Orchid Gray",
+          "memory": "64GB",
+          "simtype": "Dual SIM"
+        },
+        {
+          "key": "g",
+          "color": "Coral Blue",
+          "memory": "64GB",
+          "simtype": "Single SIM"
+        },
+        {
+          "key": "h",
+          "color": "Coral Blue",
+          "memory": "64GB",
+          "simtype": "Dual SIM"
+        },
+        {
+          "key": "i",
+          "color": "Rose Pink",
+          "memory": "64GB",
+          "simtype": "Single SIM"
+        },
+        {
+          "key": "j",
+          "color": "Rose Pink",
+          "memory": "64GB",
+          "simtype": "Dual SIM"
+        },
+        {
+          "key": "k",
+          "color": "Rose Pink",
+          "memory": "64GB",
+          "simtype": "Single SIM"
+        },
+        {
+          "key": "j",
+          "color": "Rose Pink",
+          "memory": "64GB",
+          "simtype": "Dual SIM"
+        },
+        "Maple",
+        "Gold"
+      ]
+    },
+    {
+      "variantId": "1",
+      "\",": null,
+      "mainProductId": "1",
+      "color": "Midnight Black",
+      "baseColor": "Black",
+      "images": [
+        {
+          "cloudLocation": "v1506258921/products/smartphones/samsung/001_GalaxyS8_Front_Black",
+          "alt": "Samsung Galaxy S8 Midnight Black Front",
+          "position": 1
+        },
+        {
+          "cloudLocation": "v1506258919/products/smartphones/samsung/002_GalaxyS8_Back_Black",
+          "alt": "Samsung Galaxy S8 Midnight Black Back",
+          "position": 2
+        },
+        {
+          "cloudLocation": "v1506258921/products/smartphones/samsung/003_GalaxyS8_Dual_Black",
+          "alt": "Samsung Galaxy S8 Midnight Black Dual",
+          "position": 3
+        },
+        {
+          "cloudLocation": "v1506258921/products/smartphones/samsung/004_GalaxyS8_Right-side_Black",
+          "alt": "Samsung Galaxy S8 Midnight Black Right Side",
+          "position": 4
+        },
+        {
+          "cloudLocation": "v1506258921/products/smartphones/samsung/005_GalaxyS8_Left-side_Black",
+          "alt": "Samsung Galaxy S8 Midnight Black Left Side",
+          "position": 5
+        },
+        "variants",
+
+        {
+          "id": "2",
+          "simtype": "Single SIM"
+        },
+        {
+          "id": "3"
+        }
+      ]
+
+    },
+    {
+      "id": "3ZZVA46759401P",
+      "name": "Samsung Galaxy S8",
+      "lname": "Samsung Galaxy S8 SM-G950F Single SIM 4G 64GB",
+      "dep": "84700",
+      "cat": "/84700/80009/1282094266/1200003270",
+
+      "featureGroups": [
+        {
+          "storage": {
+            "id": 2,
+            "sort": 2,
+            "name": {
+              "en": "Storage",
+              "nl": "Opslag"
+            },
+            "features": [
+              {
+                "id": 1,
+                "sort": 1,
+                "name": {
+                  "en": "Internal",
+                  "nl": "Intern"
+                }
+              },
+              {
+                "id": 2,
+                "sort": 2,
+                "name": {
+                  "en": "RAM",
+                  "nl": "RAM"
+                },
+                {
+                }
+                ]
+              }
+          }
+        },
+        "processor",
+
+        {
+          "id": 3,
+          "sort": 3,
+          "name": {
+            "en": "Processor",
+            "nl": "Processor"
+          }
+        }
+    }
+    ]
+  },
+  "desc": [
+    {
+      "lang": "en",
+      "val": "Samsung Galaxy S8 SM-G950F, 14.7 cm (5.8\"), 64 GB, 12 MP, Android, 7"
+    }
+  ],
+  "img": [
+    {
+      "height": "330",
+      "src": "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_591726201",
+      "title": "spin_prod_591726201",
+      "width": "450"
+    }
+  ],
+  "attrs": [
+    "heel height=mid (1-3/4 to 2-1/4 in.)",
+    "brand=metaphor"
+  ],
+  "sattrs": [
+    "upper material=synthetic",
+    "toe=open toe"
+  ],
+  "vars": [
+    {
+      "id": "05497884001",
+      "img": [
+        {
+          "height": "400",
+          "src": "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_591726301",
+          "title": "spin_prod_591726301",
+          "width": "450"
+        }
+      ],
+      "attrs": [
+        {
+          "color": "",
+          "baseColor": "blue"
+        }
+      ]
+    },
+    {
+      "id": "05497884002",
+      "img": [
+        {
+          "height": "400",
+          "src": "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_591726301",
+          "title": "spin_prod_591726301",
+          "width": "450"
+        }
+      ],
+      "attrs": [
+        "width=medium",
+        "color=black",
+        "shoe size=6.5"
+      ]
+    },
+    {
+      "id": "05497884004",
+      "img": [
+        {
+          "height": "400",
+          "src": "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_591726301",
+          "title": "spin_prod_591726301",
+          "width": "450"
+        }
+      ],
+      "attrs": [
+        "width=medium",
+        "color=black",
+        "shoe size=7.5"
+      ]
+    }
+  ]
+} {
+  "brand": "Samsung",
+  "name": "Samsung Galaxy S8",
+  "specs": {
+    "performance": {
+      "memoryRam": "4GB RAM (LPDDR4)  ",
+      "memory": "64GB",
+      "os": "Android 7.0 (Nougat)"
+    },
+    {
+      "video": {
+        "videoPlaybackFormat": "MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM"
+      }
+    }
+
+  }
+} "variants" [
+  {
+    "id": "v1",
+    "color": "Midnight Black",
+    "baseColor": "black"
+  },
+  {
+    "id": "v2",
+    "color": "Orchid Gray",
+    "baseColor": "grey"
+  },
+  {
+    "id": "v3",
+    "color": "Coral Blue",
+    "baseColor": "blue"
+  },
+  {
+    "id": "v4",
+    "color": "Arctic Silver",
+    "baseColor": "silver"
+  },
+  {
+    "id": "v5",
+    "color": "Maple Gold",
+    "baseColor": "gold"
+  },
+  {
+    "id": "v6",
+    "color": "Rose Pink",
+    "baseColor": "pink"
+  }
+] }

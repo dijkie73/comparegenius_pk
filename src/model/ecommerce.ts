@@ -1,4 +1,23 @@
-export class Category {
+//interface IDictionary<TValue> {
+//    [id: string]: TValue;
+//}
+
+export class KeyTypeId {
+    key: string;
+    typeId: string;
+}
+
+export class FeatureGroup {
+    $key: string;
+    sortNr: number;
+    name: Map<string, string>; // name of FeatureGroup in specific languages (i.e. "en", "nl")
+
+    getLocalizedName(language: string) {
+        return this.name[language];
+    }
+}
+
+export class OldCategory {
     $key: string;
     id: number;
     name: string;
@@ -7,6 +26,37 @@ export class Category {
     parentKey: string;
     icon: string;
     googleCategoryId: number;
+}
+
+export class Category {
+    $key: string; // The unique ID of the category (unique auto generated Firebase push ID).
+
+    version: number // The current version of the category.
+    createdAt: string; // Firebase has no type Date
+    lastModifiedAt: string; // Firebase has no type Date
+
+    key?: string; // User-specific unique identifier for the category.
+    description?: Map<string, string>; // description in specific languages (i.e. "en", "nl");
+    slug: Map<string, string>; // deep-link URL to the related category in specific languages (i.e. "en", "nl");
+
+    orderHint: number;
+    ancestors?: KeyTypeId[];  // Array of Reference to a Category. Contains the parent path towards the root category.
+    parent?: KeyTypeId; // Reference to a Category. A category that is the parent of this category in the category tree.
+    parentId: string;
+
+    metaDescription: Map<string, string>; // meta description in specific languages (i.e. "en", "nl");
+    metaTitle: Map<string, string>; // meta title in specific languages (i.e. "en", "nl");
+    name: Map<string, string>; // category name in specific languages (i.e. "en", "nl");
+
+    active: boolean = true;
+    faIcon: string;
+    googleCategoryId: number;
+
+    constructor() {
+        console.log('Category constructor called');
+      this.createdAt = new Date(Date.now()).toISOString();
+      this.lastModifiedAt = this.createdAt;
+    }
 }
 
 export class GoogleProductCategory {
@@ -73,6 +123,10 @@ export class Image {
     title: string;
     alt: string;
     position: number;
+}
+
+export class ProductVariant {
+    $key: string;
 }
 
 export class Product {

@@ -1,0 +1,501 @@
+{
+
+	"FeaturesGroups": [
+		{
+			"ID": 6884,
+			"SortNo": "96",
+			"c": {
+				"ID": "1",
+				"name": {
+					"id": "1222500",
+					"value": "Processor",
+					"language": "en"
+				}
+			},
+			"Features": [
+				{
+					"Localized": 0,
+					"ID": "249028298",
+					"Type": "numerical",
+					"Value": "1.6",
+					"CategoryFeatureId": "73732",
+					"CategoryFeatureGroupID": "6884",
+					"SortNo": "499",
+					"presentationValue": "1.6 GHz",
+					"RawValue": "1.6",
+					"LocalValue": [],
+					"Description": "The speed that the microprocessor executes each instruction or each vibration of the clock. The CPU requires a fixed number of clock ticks, or cycles, to execute each instruction. The faster the clocks rate, the faster the CPU, or the faster it can execute instructions. Clock Speeds are usually determined in MHz, 1 MHz representing 1 million cycles per second, or in GHz, 1 GHz representing 1 thousand million cycles per second. The higher the CPU speed, the better a computer will perform.",
+					"Feature": {
+						"ID": "11379",
+						"Sign": "",
+						"Measure": {
+							"ID": "37",
+							"Sign": "",
+							"Signs": {
+								"ID": "21",
+								"_": "GHz",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "1036524",
+							"Value": "Processor frequency",
+							"Language": "EN"
+						}
+					}
+				},
+				{
+					"Localized": 0,
+					"ID": "249028301",
+					"Type": "text",
+					"Value": "Samsung Exynos",
+					"CategoryFeatureId": "101566",
+					"CategoryFeatureGroupID": "6884",
+					"SortNo": "40",
+					"PresentationValue": "Samsung Exynos",
+					"RawValue": "Samsung Exynos",
+					"LocalValue": [],
+					"Description": "A family of processors is a group of processors produced by one company over a short period of time e.g. Intel Pentium processors.",
+					"Feature": {
+						"ID": "2196",
+						"Sign": "",
+						"Measure": {
+							"ID": "29",
+							"Sign": "",
+							"Signs": {
+								"ID": "1453",
+								"_": "",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "11271",
+							"Value": "Processor family",
+							"Language": "EN"
+						}
+					}
+				},
+				{
+					"Localized": 0,
+					"ID": "249028304",
+					"Type": "dropdown",
+					"Value": "7870",
+					"CategoryFeatureId": "51651",
+					"CategoryFeatureGroupID": "6884",
+					"SortNo": "35",
+					"PresentationValue": "7870",
+					"RawValue": "7870",
+					"LocalValue": [],
+					"Description": "The model number for the processor in a computer.",
+					"Feature": {
+						"ID": "47",
+						"Sign": "",
+						"Measure": {
+							"ID": "29",
+							"Sign": "",
+							"Signs": {
+								"ID": "1453",
+								"_": "",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "1431",
+							"Value": "Processor model",
+							"Language": "EN"
+						}
+					}
+				},
+				{
+					"Localized": 0,
+					"ID": "249028305",
+					"Type": "dropdown",
+					"Value": "ARM Cortex-A53",
+					"CategoryFeatureId": "61660",
+					"CategoryFeatureGroupID": "6884",
+					"SortNo": "33",
+					"PresentationValue": "ARM Cortex-A53",
+					"RawValue": "ARM Cortex-A53",
+					"LocalValue": [],
+					"Description": "",
+					"Feature": {
+						"ID": "9984",
+						"Sign": "",
+						"Measure": {
+							"ID": "29",
+							"Sign": "",
+							"Signs": {
+								"ID": "1453",
+								"_": "",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "841086",
+							"Value": "Processor architecture",
+							"Language": "EN"
+						}
+					}
+				},
+				{
+					"Localized": 0,
+					"ID": "249028309",
+					"Type": "y_n",
+					"Value": "Y",
+					"CategoryFeatureId": "94724",
+					"CategoryFeatureGroupID": "6884",
+					"SortNo": "0",
+					"PresentationValue": "Y",
+					"RawValue": "Y",
+					"LocalValue": [],
+					"Description": "The use of processors that have datapath widths, integer size, and memory addresses widths of 64 bits (eight octets). In 2003 64-bit CPUs were introduced to the (previously 32-bit) mainstream personal computer arena in the form of the x86-64 and 64-bit PowerPC processor architectures and in 2012 even into the ARM architecture targeting smartphones and tablet computers, first sold on September 20, 2013 in the iPhone 5S powered by the ARMv8-A Apple A7 SoC.",
+					"Feature": {
+						"ID": "6088",
+						"Sign": "",
+						"Measure": {
+							"ID": "26",
+							"Sign": "",
+							"Signs": {
+								"ID": "1621",
+								"_": "",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "138093",
+							"Value": "64-bit computing",
+							"Language": "EN"
+						}
+					}
+				},
+				{
+					"Localized": 0,
+					"ID": "249028308",
+					"Type": "dropdown",
+					"Value": "8",
+					"CategoryFeatureId": "93997",
+					"CategoryFeatureGroupID": "6884",
+					"SortNo": "0",
+					"PresentationValue": "8",
+					"RawValue": "8",
+					"LocalValue": [],
+					"Description": "The number of central processing units ('cores') in a processor. Some processors have 1 core, others have 2 (e.g. Intel Core Duo) or more (e.g. the Intel Xeon E7-2850 has 10 cores).",
+					"Feature": {
+						"ID": "6089",
+						"Sign": "",
+						"Measure": {
+							"ID": "29",
+							"Sign": "",
+							"Signs": {
+								"ID": "1453",
+								"_": "",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "138113",
+							"Value": "Processor cores",
+							"Language": "EN"
+						}
+					}
+				}
+			]
+		},
+		{
+			"ID": 6887,
+			"SortNo": "92",
+			"FeatureGroup": {
+				"ID": "47",
+				"Name": {
+					"ID": "8858",
+					"Value": "Storage",
+					"Language": "EN"
+				}
+			},
+			"Features": [
+				{
+					"Localized": 0,
+					"ID": "249028363",
+					"Type": "numerical",
+					"Value": "3",
+					"CategoryFeatureId": "180947",
+					"CategoryFeatureGroupID": "6887",
+					"SortNo": "40",
+					"PresentationValue": "3 GB",
+					"RawValue": "3",
+					"LocalValue": [],
+					"Description": "",
+					"Feature": {
+						"ID": "7861",
+						"Sign": "",
+						"Measure": {
+							"ID": "20",
+							"Sign": "",
+							"Signs": {
+								"ID": "7",
+								"_": "GB",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "608573",
+							"Value": "RAM capacity",
+							"Language": "EN"
+						}
+					}
+				},
+				{
+					"Localized": 0,
+					"ID": "249028366",
+					"Type": "numerical",
+					"Value": "16",
+					"CategoryFeatureId": "51697",
+					"CategoryFeatureGroupID": "6887",
+					"SortNo": "38",
+					"PresentationValue": "16 GB",
+					"RawValue": "16",
+					"LocalValue": [],
+					"Description": "The amount e.g of data which can be stored inside the device.",
+					"Feature": {
+						"ID": "8730",
+						"Sign": "",
+						"Measure": {
+							"ID": "20",
+							"Sign": "",
+							"Signs": {
+								"ID": "7",
+								"_": "GB",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "734192",
+							"Value": "Internal storage capacity",
+							"Language": "EN"
+						}
+					}
+				},
+				{
+					"Localized": 0,
+					"ID": "249028371",
+					"Type": "multi_dropdown",
+					"Value": "MicroSD (TransFlash)",
+					"CategoryFeatureId": "51501",
+					"CategoryFeatureGroupID": "6887",
+					"SortNo": "20",
+					"PresentationValue": "MicroSD (TransFlash)",
+					"RawValue": "MicroSD (TransFlash)",
+					"LocalValue": [],
+					"Description": "Types of memory cards which can be used with this product.",
+					"Feature": {
+						"ID": "730",
+						"Sign": "",
+						"Measure": {
+							"ID": "29",
+							"Sign": "",
+							"Signs": {
+								"ID": "1453",
+								"_": "",
+								"Language": "EN"
+							}
+						},
+						"Name": {
+							"ID": "2991",
+							"Value": "Compatible memory cards",
+							"Language": "EN",
+
+							{
+								"ID": 6883,
+								"SortNo": 100,
+								"FeatureGroup": {
+									"ID": "5",
+									"Name": {
+										"ID": "4867",
+										"Value": "Display",
+										"Language": "en"
+									}
+								},
+								"Features": [
+									{
+										"ID": "249028241",
+										"Type": "numerical",
+										"Value": "5.5",
+										"CategoryFeatureId": "51494",
+										"categoryFeatureGroupID": "6883",
+										"SortNo": "500",
+										"PresentationValue": "14 cm (5.5\")",
+										"RawValue": "5.5",
+										"LocalValue": [],
+										"Description": "Size of the display for this product, measured diagonally, usually in inches.",
+										"Feature": {
+											"ID": "944",
+											"Sign": "",
+											"Measure": {
+												"ID": "16",
+												"Sign": "",
+												"Signs": {
+													"ID": "11",
+													"_": "\"",
+													"Language": "EN"
+												}
+											},
+											"Name": {
+												"ID": "3429",
+												"Value": "Display diagonal",
+												"Language": "EN"
+											}
+										}
+									},
+									{
+										"ID": "249028260",
+										"Value": "Flat screen",
+										"CategoryFeatureId": "166023",
+										"CategoryFeatureGroupID": "6883",
+										"SortNo": "32",
+										"PresentationValue": "Flat",
+										"RawValue": "Flat screen",
+										"LocalValue": [],
+										"Description": "",
+										"Feature": {
+											"ID": "17554",
+											"Sign": "",
+											"Measure": {
+												"ID": "29",
+												"Sign": "",
+												"Signs": {
+													"ID": "1453",
+													"_": "",
+													"Language": "EN"
+												}
+											},
+											"Name": {
+												"ID": "1247341",
+												"Value": "Screen shape",
+												"Language": "EN"
+											}
+										}
+									},
+									{
+										"Localized": 0,
+										"ID": "249028269",
+										"Type": "dropdown",
+										"Value": "SAMOLED",
+										"CategoryFeatureId": "92510",
+										"CategoryFeatureGroupID": "6883",
+										"SortNo": "30",
+										"PresentationValue": "SAMOLED",
+										"RawValue": "SAMOLED",
+										"LocalValue": [],
+										"Description": "Type of display (screen) e.g. LCD.",
+										"Feature": {
+											"ID": "9104",
+											"Sign": "",
+											"Measure": {
+												"ID": "29",
+												"Sign": "",
+												"Signs": {
+													"ID": "1453",
+													"_": "",
+													"Language": "EN"
+												}
+											},
+											"Name": {
+												"ID": "761213",
+												"Value": "Display type",
+												"Language": "EN"
+											}
+										}
+									},
+									{
+										"Localized": 0,
+										"ID": "249028245",
+										"Type": "2d",
+										"Value": "1920 x 1080",
+										"CategoryFeatureId": "51495",
+										"CategoryFeatureGroupID": "6883",
+										"SortNo": "26",
+										"PresentationValue": "1920 x 1080 pixels",
+										"RawValue": "1920 x 1080",
+										"LocalValue": [],
+										"Description": "The number of distinct pixels in each dimension that can be displayed. It is usually quoted as width × height, with the units in pixels: for example, \"1024 × 768\" means the width is 1024 pixels and the height is 768 pixels. The higher the number of pixels, the sharper the image.",
+										"Feature": {
+											"ID": "1585",
+											"Sign": "",
+											"Measure": {
+												"ID": "39",
+												"Sign": "",
+												"Signs": {
+													"ID": "23",
+													"_": "pixels",
+													"Language": "EN"
+												}
+											},
+											"Name": {
+												"ID": "4927",
+												"Value": "Display resolution",
+												"Language": "EN"
+											}
+										}
+									},
+									{
+										"Localized": 0,
+										"ID": "249028273",
+										"Type": "dropdown",
+										"Value": "16 million colours",
+										"CategoryFeatureId": "154140",
+										"CategoryFeatureGroupID": "6883",
+										"SortNo": "24",
+										"PresentationValue": "16 million colours",
+										"RawValue": "16 million colours",
+										"LocalValue": [],
+										"Description": "",
+										"Feature": {
+											"ID": "24847",
+											"Sign": "",
+											"Measure": {
+												"ID": "29",
+												"Sign": "",
+												"Signs": {
+													"ID": "1453",
+													"_": "",
+													"Language": "EN"
+												}
+											},
+											"Name": {
+												"ID": "2065760",
+												"Value": "Display number of colours",
+												"Language": "EN"
+											}
+										}
+									},
+									{
+										"Localized": 0,
+										"ID": "249028280",
+										"Type": "text",
+										"Value": "N",
+										"CategoryFeatureId": "176246",
+										"CategoryFeatureGroupID": "6883",
+										"SortNo": "23",
+										"PresentationValue": "N",
+										"RawValue": "N",
+										"LocalValue": [],
+										"Description": "The device has an additional (second) screen.",
+										"Feature": {
+											"ID": "3989",
+											"Sign": "",
+											"Measure": {
+												"ID": "29",
+												"Sign": "",
+												"Signs": {
+													"ID": "1453",
+													"_": "",
+													"Language": "EN"
+												}
+											},
+											"Name": {
+												"ID": "56104",
+												"Value": "Second display",
+												"Language": "EN"
+											}
+										}
+									}

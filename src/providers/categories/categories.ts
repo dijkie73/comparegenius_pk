@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { AngularFireDatabase, FirebaseObjectObservable, FirebaseListObservable } from 'angularfire2/database';
-//import 'rxjs/add/operator/map';
 import { Category } from '../../model/ecommerce';
 
 @Injectable()
@@ -26,8 +25,8 @@ export class CategoriesProvider {
     getMainCategoriesList(query = {}): FirebaseListObservable<Category[]> {
         this.categories$ = this.db.list(this.basePath, {
             query: {
-                orderByChild: 'parentKey',
-                equalTo: '0'
+                orderByChild: 'parentId',
+                equalTo: ''
             }
         });
 
@@ -38,7 +37,7 @@ export class CategoriesProvider {
     getSubCategoriesList(categoryKey: string): FirebaseListObservable<Category[]> {
         this.categories$ = this.db.list(this.basePath, {
             query: {
-                orderByChild: 'parentKey',
+                orderByChild: 'parentId',
                 equalTo: categoryKey
             }
         });
@@ -49,11 +48,19 @@ export class CategoriesProvider {
 
     // Return a single observable category with $key == key
     getCategory(key: string): FirebaseObjectObservable<Category> {
-        const categoryPath = '${this.basePath}/${key}';
+        const categoryPath = this.basePath + '/' + key;
 
         this.category$ = this.db.object(categoryPath);
 
         return this.category$;
+    }
+
+    cloneCategory(key: string): string {
+        this.category$ = this.getCategory(key);
+
+        var pushKey = this.categories$.push(this.category$).key;
+
+        return pushKey;
     }
 
     // Create a new category

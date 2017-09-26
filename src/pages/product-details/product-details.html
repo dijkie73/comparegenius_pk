@@ -34,7 +34,7 @@
       <p [innerHTML]="product.description"></p>
 
       <ion-list>
-        <<ion-list-header>
+        <ion-list-header>
           Compare prices
         </ion-list-header>
 
@@ -153,4 +153,24 @@
     </ion-card-content>
   </ion-card>
 
-</ion-content>
+<ion-card *ngIf="featureGroups.length > 0">
+  <ion-card-content>
+    <ion-card-title>
+      Detailed Specefications
+    </ion-card-title>
+    <ion-list-header>Test</ion-list-header>
+
+    <ion-grid>
+      <ion-row *ngFor="let group of featureGroups | async">
+        <ion-col col-4>
+          {{ group.sortNr }}
+        </ion-col>
+        <ion-col col-8>
+          <span>
+            {{ group.name["en"] }}
+          </span>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-card-content>
+</ion-card>

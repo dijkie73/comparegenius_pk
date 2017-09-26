@@ -10,7 +10,8 @@ export const firebaseConfig = {
 export const globalSettings = {
     countryId: "pk",
     currencyId: "PKR",
-    currencyDisplay: "Rs."
+    currencyDisplay: "Rs.",
+    languageId: "en"
 }
 
 // constants.ts

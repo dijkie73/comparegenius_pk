@@ -4,7 +4,7 @@ import { HomePage } from '../home/home';
 import { ProductsByCategoryPage } from '../products-by-category/products-by-category';
 import { CategoriesProvider } from '../../providers/categories/categories';
 import { Category } from '../../model/ecommerce';
-import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
+import { FirebaseListObservable } from 'angularfire2/database';
 import * as Constant from '../../environment';
 
 declare var gtag: Function;
@@ -14,30 +14,20 @@ declare var gtag: Function;
   templateUrl: 'menu.html',
 })
 export class Menu {
-
     homePage: any;
-    categories: any[];
-    categoryProvider: CategoriesProvider;
-
-    categoryList: FirebaseListObservable<Category[]> = null; //  list of categories
+    categoryList$: FirebaseListObservable<Category[]> = null; //  observable list of categories
 
     @ViewChild('content') childNavCtrl: NavController;
 
     constructor(
-        public db: AngularFireDatabase,
+        private categoryProvider: CategoriesProvider,
         public navCtrl: NavController,
         public navParams: NavParams) {
 
         this.homePage = HomePage;
+        this.categoryList$ = this.categoryProvider.getMainCategoriesList();
+    }
 
-        this.categories = [];
-        this.categoryProvider = new CategoriesProvider(db);
-
-        this.categoryList = this.categoryProvider.getMainCategoriesList();
-
-        console.log(typeof(this.homePage));
-        console.log(this.categoryList);
-  }
     ionViewWillEnter() {
         console.log('ionViewWillEnter MenuPage');
         gtag('config', Constant.GA_TRACKING_ID, {
@@ -59,17 +49,18 @@ export class Menu {
       //gtag('event', 'screen_view', { 'screen_name': 'MenuScreenName-menuts' });  
       
   }
+
   openCategoryPage(category) {
       // Reset the content nav to have just this page
       // we wouldn't want the back button to show in this scenario
       this.childNavCtrl.setRoot(ProductsByCategoryPage, { "category": category});
   }
 
-  openInvolvePage() {
+  openHomePage() {
       // Reset the content nav to have just this page
       // we wouldn't want the back button to show in this scenario
-      this.childNavCtrl.push('product-list');
-      //this.navCtrl.setRoot(InvolvePage);
+      //this.childNavCtrl.push('product-list');
+      this.childNavCtrl.setRoot(this.homePage);
   }
 
 }

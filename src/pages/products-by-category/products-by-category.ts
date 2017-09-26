@@ -5,6 +5,10 @@ import { Product, Category } from '../../model/ecommerce';
 import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 import * as Constant from '../../environment';
 
+import { ProductDetailsPage } from '../product-details/product-details';
+
+//import { FeaturesProvider } from '../../providers/features/features';
+
 declare var gtag: Function;
   
 @Component({
@@ -34,15 +38,21 @@ export class ProductsByCategoryPage {
 
         this.productsProvider = new ProductsProvider(db);
         this.productsList = this.productsProvider.getMainProductsList();
+
+        //var fprov: FeaturesProvider;
+
+        //fprov = new FeaturesProvider(db);
+        //fprov.createFeatureGroups();
         //this.productsList = this.productsProvider.getProductsListByCategory(this.category);
   }
 
     ionViewWillEnter() {
-        console.log('ionViewWillEnter MenuPage');
+        console.log('ionViewWillEnter ProductsByCategoryPage');
+        console.log(this.category.slug["en-PK"]);
         gtag('config', Constant.GA_TRACKING_ID, {
-            'page_title': 'Category - ' + this.category.name,
-            'page_location': 'https://www.comparegenius.com/category/' + this.category.urlName,
-            'page_path': '/category/' + this.category.urlName
+            'page_title': 'Category - ' + this.category.name["en-PK"],
+            'page_location': 'https://www.comparegenius.com/category/' + this.category.slug["en-PK"],
+            'page_path': '/category/' + this.category.slug["en-PK"]
         });
     }
 
@@ -79,6 +89,6 @@ export class ProductsByCategoryPage {
   }
 
   openProductPage(product) {
-      this.navCtrl.push('ProductDetails', { "product": product });
+      this.navCtrl.push(ProductDetailsPage, { "product": product });
   }
 }

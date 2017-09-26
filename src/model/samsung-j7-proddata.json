@@ -1,0 +1,4042 @@
+{
+  "msg": "OK",
+  "data": {
+    "Dictionary": {
+      "pdf_url": "User manual",
+      "desc": "Description",
+      "demo_msg_part3": "If you don't have an Icecat account, please register here for free.",
+      "reasons_to_buy": "Reasons to buy",
+      "model_name": "Product name",
+      "Specs": "Specs",
+      "product_family": "Product family",
+      "video": "Video",
+      "zoom_panel_out": "Zoom out",
+      "demo_msg_part2": "your Icecat login name",
+      "link_integrate_desk": "How to integrate Icecat LIVE JavaScript.",
+      "zoom_panel_in": "Zoom in",
+      "demo_insert_desc": "This is a demo of a seamless insert of an Icecat LIVE product data-sheet in your website. Imagine that this responsive data-sheet is included in the product page of your webshop.",
+      "eu_energy_label": "EU Energy Label",
+      "product_series": "Product series",
+      "cat_name": "Category",
+      "back_to_top": "Back to top",
+      "release_date": "Release date",
+      "reviews_head_name": "Reviews",
+      "zoom_panel_init": "Original size",
+      "ean_code": "EAN/UPC code",
+      "zoom_panel_dragg": "Mouse dragging",
+      "options_head_name": "Options",
+      "demo_msg_part1": "You are using now a Demo account. Please, use your own Icecat account",
+      "supplier_name": "Brand",
+      "prod_code": "Product code",
+      "pdf_specs": "Leaflet",
+      "eu_product_fiche": "EU Product Fiche",
+      "flash360": "3D tour"
+    },
+    "GeneralInfo": {
+      "IcecatId": "37087894",
+      "ReleaseDate": false,
+      "EndOfLifeDate": false,
+      "Title": "Samsung Galaxy J7 (2017) SM-J730F Dual SIM 4G 16GB Blue",
+      "Brand": "Samsung",
+      "BrandLogo": "http://images.icecat.biz/img/brand/thumb/26_26688cbbc3dc4b44ad65b30451e8ac80.jpg",
+      "ProductName": "SM-J730F",
+      "BrandPartCode": "SM-J730FZSDPHE",
+      "GTIN": [ "8806088851181" ],
+      "Category": {
+        "CategoryID": "1893",
+        "Name": {
+          "Value": "smartphones",
+          "Language": "EN"
+        }
+      },
+      "ProductFamily": {
+        "ProductFamilyID": "63895",
+        "NameID": "1057505",
+        "Value": "Galaxy",
+        "Language": "EN"
+      },
+      "ProductSeries": {
+        "SeriesID": "5761",
+        "NameID": "3186999",
+        "Value": "J7 (2017)",
+        "Language": "EN"
+      },
+      "Description": {
+        "ID": "58665503",
+        "LongDesc": "<b>Elegant by nature</b>\\nWhen style complements functionality. Designed with the strictest attention to detail, the new Samsung Galaxy J7 features a stunning uniform metal finish with zero camera protrusion for superior grip and 2.5D Glass shielding its 5.5” Full HD display for added durability.\\n\\n<b>Share life as you see it</b>\\nIts rear 13 MP F1.7 camera captures clear photos with enhanced detail in low light while its intuitive interface enables one-handed functionality thanks to its moving shutter button so you can still take the shot while adjusting your pose or framing the scene.\\n\\n<b>Look great in every frame</b>\\nThe Samsung Galaxy J7 lets you take bright and vivid selfies every time with more accurate detail even in low light thanks to its front LED and selfie flashes. You can also control the shutter by simple hand gesture.\\n\\n<b>Full speed ahead</b>\\nKeep usage running at optimal levels. Thanks to a hefty 3 GB of RAM, 16/32 GB of internal storage and up to 256 GB of optional expandable storage capacity with microSD support, the Samsung Galaxy J7 ensures highly responsive and blazingly fast speeds to accelerate your workflow.\\n\\n<b>Personalised gatekeeper</b>\\nThe Samsung Galaxy J7 is engineered with a touch-based fingerprint sensor authentication to ensure your data is seen by you alone. You can also use this method for mobile payments, online sign in and verifying online accounts to ensure maximum protection.\\n\\n<b>Always on Display</b>\\nA smarter alternative to conserving battery levels and time. Always on Display lets you view the time, calendar and incoming notifications at a glance without waking up your smartphone.\\n\\n<b>Synchronise your world</b>\\nSeamless management for your preferred content. Samsung Cloud lets you backup, sync, restore and upgrade your data through your Galaxy smartphone so you get access to whatever you need, whenever and wherever you need it.\\n\\n<b>Hidden for your protection</b>\\nSamsung’s Secure Folder is a powerful security solution that lets you creates a private and fully encrypted space to store and hide content such as photos, documents and voice recording files under an additional layer of protection that only you can access.\\n\\n<b>Dual Messenger</b>\\nCustomise the way you chat. The Samsung Galaxy J7 allows for the set up of two accounts for the same Messenger with different purposes. Users can install and easily manage the second Messenger account simultaneously from the home screen and settings menu.",
+        "LongProductName": "13.97 cm (5.5 \") FHD (1920x1080) SuperAMOLED, Exynos 7870 Octa-Core 1.6GHz, 3GB RAM, 16GB ROM, LTE, 13/13MP AF, Micro-USB 2.0, Bluetooth 4.1, 802.11a/b/g/n/ac, GPS, NFC, Wi-Fi Direct, DualSIM, 3600mAh, Android 7.0 Nougat, 181g, Azul",
+        "ManualPDFURL": "",
+        "ManualPDFSize": "0",
+        "LeafletPDFURL": "",
+        "PDFSize": "0",
+        "URL": "http://www.samsung.com/africa_en/smartphones/galaxy-j7-2017/SM-J730FZKDAFR/",
+        "Updated": "2017-07-31 13:31:47"
+      },
+      "BulletPoints": []
+    },
+    "Image": {
+      "HighPic": "http://images.icecat.biz/img/gallery/37087894_6122127073.jpg",
+      "HighPicSize": "114334",
+      "HighPicHeight": "615",
+      "HighPicWidth": "802",
+      "LowPic": "http://images.icecat.biz/img/gallery_lows/37087894_6122127073.jpg",
+      "LowPicSize": "12191",
+      "LowPicHeight": "153",
+      "LowPicWidth": "200",
+      "Pic500x500": "http://images.icecat.biz/img/gallery_mediums/37087894_6122127073.jpg",
+      "Pic500x500Size": "59991",
+      "Pic500x500Height": "383",
+      "Pic500x500Width": 0,
+      "ThumbPic": "http://images.icecat.biz/img/gallery_thumbs/37087894_6122127073.jpg",
+      "ThumbPicSize": "1141"
+    },
+    "Multimedia": [],
+    "Gallery": [
+      {
+        "ID": "21604757",
+        "LowPic": "http://images.icecat.biz/img/gallery_lows/37087894_3216100827.jpg",
+        "LowSize": "10563",
+        "LowHeight": "153",
+        "LowWidth": "200",
+        "ThumbPic": "http://images.icecat.biz/img/gallery_thumbs/37087894_3216100827.jpg",
+        "ThumbPicSize": "1029",
+        "Pic": "http://images.icecat.biz/img/gallery/37087894_3216100827.jpg",
+        "Size": "100552",
+        "PicHeight": "615",
+        "PicWidth": "802",
+        "Pic500x500": "http://images.icecat.biz/img/gallery_mediums/37087894_3216100827.jpg",
+        "Pic500x500Size": "52005",
+        "Pic500x500Height": "383",
+        "Pic500x500Width": "500",
+        "No": "6",
+        "IsMain": "N",
+        "Updated": "2017-07-07 12:17:09",
+        "IsPrivate": "0"
+      },
+      {
+        "ID": "21604747",
+        "LowPic": "http://images.icecat.biz/img/gallery_lows/37087894_6122127073.jpg",
+        "LowSize": "12191",
+        "LowHeight": "153",
+        "LowWidth": "200",
+        "ThumbPic": "http://images.icecat.biz/img/gallery_thumbs/37087894_6122127073.jpg",
+        "ThumbPicSize": "1141",
+        "Pic": "http://images.icecat.biz/img/gallery/37087894_6122127073.jpg",
+        "Size": "114334",
+        "PicHeight": "615",
+        "PicWidth": "802",
+        "Pic500x500": "http://images.icecat.biz/img/gallery_mediums/37087894_6122127073.jpg",
+        "Pic500x500Size": "59991",
+        "Pic500x500Height": "383",
+        "Pic500x500Width": "500",
+        "No": "1",
+        "IsMain": "Y",
+        "Updated": "2017-07-07 12:16:49",
+        "IsPrivate": "0"
+      },
+      {
+        "ID": "21604751",
+        "LowPic": "http://images.icecat.biz/img/gallery_lows/37087894_6124073007.jpg",
+        "LowSize": "2608",
+        "LowHeight": "153",
+        "LowWidth": "200",
+        "ThumbPic": "http://images.icecat.biz/img/gallery_thumbs/37087894_6124073007.jpg",
+        "ThumbPicSize": "523",
+        "Pic": "http://images.icecat.biz/img/gallery/37087894_6124073007.jpg",
+        "Size": "23625",
+        "PicHeight": "615",
+        "PicWidth": "802",
+        "Pic500x500": "http://images.icecat.biz/img/gallery_mediums/37087894_6124073007.jpg",
+        "Pic500x500Size": "12582",
+        "Pic500x500Height": "383",
+        "Pic500x500Width": "500",
+        "No": "3",
+        "IsMain": "N",
+        "Updated": "2017-07-07 12:16:58",
+        "IsPrivate": "0"
+      },
+      {
+        "ID": "21604755",
+        "LowPic": "http://images.icecat.biz/img/gallery_lows/37087894_6262027023.jpg",
+        "LowSize": "10627",
+        "LowHeight": "153",
+        "LowWidth": "200",
+        "ThumbPic": "http://images.icecat.biz/img/gallery_thumbs/37087894_6262027023.jpg",
+        "ThumbPicSize": "1030",
+        "Pic": "http://images.icecat.biz/img/gallery/37087894_6262027023.jpg",
+        "Size": "100735",
+        "PicHeight": "615",
+        "PicWidth": "802",
+        "Pic500x500": "http://images.icecat.biz/img/gallery_mediums/37087894_6262027023.jpg",
+        "Pic500x500Size": "52003",
+        "Pic500x500Height": "383",
+        "Pic500x500Width": "500",
+        "No": "5",
+        "IsMain": "N",
+        "Updated": "2017-07-07 12:17:06",
+        "IsPrivate": "0"
+      },
+      {
+        "ID": "21604753",
+        "LowPic": "http://images.icecat.biz/img/gallery_lows/37087894_7226734013.jpg",
+        "LowSize": "2409",
+        "LowHeight": "153",
+        "LowWidth": "200",
+        "ThumbPic": "http://images.icecat.biz/img/gallery_thumbs/37087894_7226734013.jpg",
+        "ThumbPicSize": "530",
+        "Pic": "http://images.icecat.biz/img/gallery/37087894_7226734013.jpg",
+        "Size": "21651",
+        "PicHeight": "615",
+        "PicWidth": "802",
+        "Pic500x500": "http://images.icecat.biz/img/gallery_mediums/37087894_7226734013.jpg",
+        "Pic500x500Size": "11401",
+        "Pic500x500Height": "383",
+        "Pic500x500Width": "500",
+        "No": "4",
+        "IsMain": "N",
+        "Updated": "2017-07-07 12:17:02",
+        "IsPrivate": "0"
+      },
+      {
+        "ID": "21604748",
+        "LowPic": "http://images.icecat.biz/img/gallery_lows/37087894_7789710712.jpg",
+        "LowSize": "6429",
+        "LowHeight": "153",
+        "LowWidth": "200",
+        "ThumbPic": "http://images.icecat.biz/img/gallery_thumbs/37087894_7789710712.jpg",
+        "ThumbPicSize": "879",
+        "Pic": "http://images.icecat.biz/img/gallery/37087894_7789710712.jpg",
+        "Size": "59706",
+        "PicHeight": "615",
+        "PicWidth": "802",
+        "Pic500x500": "http://images.icecat.biz/img/gallery_mediums/37087894_7789710712.jpg",
+        "Pic500x500Size": "30065",
+        "Pic500x500Height": "383",
+        "Pic500x500Width": "500",
+        "No": "2",
+        "IsMain": "N",
+        "Updated": "2017-07-07 12:16:53",
+        "IsPrivate": "0"
+      }
+    ],
+    "FeaturesGroups": [
+      {
+        "ID": 6883,
+        "SortNo": "100",
+        "FeatureGroup": {
+          "ID": "5",
+          "Name": {
+            "ID": "4867",
+            "Value": "Display",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028241",
+            "Type": "numerical",
+            "Value": "5.5",
+            "CategoryFeatureId": "51494",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "500",
+            "PresentationValue": "14 cm (5.5\")",
+            "RawValue": "5.5",
+            "LocalValue": [],
+            "Description": "Size of the display for this product, measured diagonally, usually in inches.",
+            "Feature": {
+              "ID": "944",
+              "Sign": "",
+              "Measure": {
+                "ID": "16",
+                "Sign": "",
+                "Signs": {
+                  "ID": "11",
+                  "_": "\"",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "3429",
+                "Value": "Display diagonal",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028260",
+            "Type": "dropdown",
+            "Value": "Flat screen",
+            "CategoryFeatureId": "166023",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "32",
+            "PresentationValue": "Flat",
+            "RawValue": "Flat screen",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "17554",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1247341",
+                "Value": "Screen shape",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028269",
+            "Type": "dropdown",
+            "Value": "SAMOLED",
+            "CategoryFeatureId": "92510",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "30",
+            "PresentationValue": "SAMOLED",
+            "RawValue": "SAMOLED",
+            "LocalValue": [],
+            "Description": "Type of display (screen) e.g. LCD.",
+            "Feature": {
+              "ID": "9104",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "761213",
+                "Value": "Display type",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028245",
+            "Type": "2d",
+            "Value": "1920 x 1080",
+            "CategoryFeatureId": "51495",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "26",
+            "PresentationValue": "1920 x 1080 pixels",
+            "RawValue": "1920 x 1080",
+            "LocalValue": [],
+            "Description": "The number of distinct pixels in each dimension that can be displayed. It is usually quoted as width × height, with the units in pixels: for example, \"1024 × 768\" means the width is 1024 pixels and the height is 768 pixels. The higher the number of pixels, the sharper the image.",
+            "Feature": {
+              "ID": "1585",
+              "Sign": "",
+              "Measure": {
+                "ID": "39",
+                "Sign": "",
+                "Signs": {
+                  "ID": "23",
+                  "_": "pixels",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "4927",
+                "Value": "Display resolution",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028273",
+            "Type": "dropdown",
+            "Value": "16 million colours",
+            "CategoryFeatureId": "154140",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "24",
+            "PresentationValue": "16 million colours",
+            "RawValue": "16 million colours",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "24847",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2065760",
+                "Value": "Display number of colours",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028280",
+            "Type": "text",
+            "Value": "N",
+            "CategoryFeatureId": "176246",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "23",
+            "PresentationValue": "N",
+            "RawValue": "N",
+            "LocalValue": [],
+            "Description": "The device has an additional (second) screen.",
+            "Feature": {
+              "ID": "3989",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "56104",
+                "Value": "Second display",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028251",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51496",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "22",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "A screen of a laptop, smartphone, etc., that responds to touch so you can control the interface using your fingers.",
+            "Feature": {
+              "ID": "4963",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "61603",
+                "Value": "Touchscreen",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028283",
+            "Type": "dropdown",
+            "Value": "Multi-touch",
+            "CategoryFeatureId": "51557",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "20",
+            "PresentationValue": "Multi-touch",
+            "RawValue": "Multi-touch",
+            "LocalValue": [],
+            "Description": "Technology of touch sensetive screen e.g. dual-touch.",
+            "Feature": {
+              "ID": "7698",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "596189",
+                "Value": "Touch technology",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028287",
+            "Type": "dropdown",
+            "Value": "Capacitive",
+            "CategoryFeatureId": "59555",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "0",
+            "PresentationValue": "Capacitive",
+            "RawValue": "Capacitive",
+            "LocalValue": [],
+            "Description": "There are a variety of touchscreen technologies that have different methods of sensing touch, including resistive and capacitive.",
+            "Feature": {
+              "ID": "8097",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "625055",
+                "Value": "Touchscreen type",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028255",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51531",
+            "CategoryFeatureGroupID": "6883",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "The device e.g. smartphone, tablet uses gravity to sense whether it should be displaying in portrait or landscape mode.",
+            "Feature": {
+              "ID": "7350",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "495103",
+                "Value": "Orientation sensor",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6884,
+        "SortNo": "96",
+        "FeatureGroup": {
+          "ID": "1",
+          "Name": {
+            "ID": "1222500",
+            "Value": "Processor",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028298",
+            "Type": "numerical",
+            "Value": "1.6",
+            "CategoryFeatureId": "73732",
+            "CategoryFeatureGroupID": "6884",
+            "SortNo": "499",
+            "PresentationValue": "1.6 GHz",
+            "RawValue": "1.6",
+            "LocalValue": [],
+            "Description": "The speed that the microprocessor executes each instruction or each vibration of the clock. The CPU requires a fixed number of clock ticks, or cycles, to execute each instruction. The faster the clocks rate, the faster the CPU, or the faster it can execute instructions. Clock Speeds are usually determined in MHz, 1 MHz representing 1 million cycles per second, or in GHz, 1 GHz representing 1 thousand million cycles per second. The higher the CPU speed, the better a computer will perform.",
+            "Feature": {
+              "ID": "11379",
+              "Sign": "",
+              "Measure": {
+                "ID": "37",
+                "Sign": "",
+                "Signs": {
+                  "ID": "21",
+                  "_": "GHz",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1036524",
+                "Value": "Processor frequency",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028301",
+            "Type": "text",
+            "Value": "Samsung Exynos",
+            "CategoryFeatureId": "101566",
+            "CategoryFeatureGroupID": "6884",
+            "SortNo": "40",
+            "PresentationValue": "Samsung Exynos",
+            "RawValue": "Samsung Exynos",
+            "LocalValue": [],
+            "Description": "A family of processors is a group of processors produced by one company over a short period of time e.g. Intel Pentium processors.",
+            "Feature": {
+              "ID": "2196",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "11271",
+                "Value": "Processor family",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028304",
+            "Type": "dropdown",
+            "Value": "7870",
+            "CategoryFeatureId": "51651",
+            "CategoryFeatureGroupID": "6884",
+            "SortNo": "35",
+            "PresentationValue": "7870",
+            "RawValue": "7870",
+            "LocalValue": [],
+            "Description": "The model number for the processor in a computer.",
+            "Feature": {
+              "ID": "47",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1431",
+                "Value": "Processor model",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028305",
+            "Type": "dropdown",
+            "Value": "ARM Cortex-A53",
+            "CategoryFeatureId": "61660",
+            "CategoryFeatureGroupID": "6884",
+            "SortNo": "33",
+            "PresentationValue": "ARM Cortex-A53",
+            "RawValue": "ARM Cortex-A53",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9984",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "841086",
+                "Value": "Processor architecture",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028309",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "94724",
+            "CategoryFeatureGroupID": "6884",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "The use of processors that have datapath widths, integer size, and memory addresses widths of 64 bits (eight octets). In 2003 64-bit CPUs were introduced to the (previously 32-bit) mainstream personal computer arena in the form of the x86-64 and 64-bit PowerPC processor architectures and in 2012 even into the ARM architecture targeting smartphones and tablet computers, first sold on September 20, 2013 in the iPhone 5S powered by the ARMv8-A Apple A7 SoC.",
+            "Feature": {
+              "ID": "6088",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "138093",
+                "Value": "64-bit computing",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028308",
+            "Type": "dropdown",
+            "Value": "8",
+            "CategoryFeatureId": "93997",
+            "CategoryFeatureGroupID": "6884",
+            "SortNo": "0",
+            "PresentationValue": "8",
+            "RawValue": "8",
+            "LocalValue": [],
+            "Description": "The number of central processing units ('cores') in a processor. Some processors have 1 core, others have 2 (e.g. Intel Core Duo) or more (e.g. the Intel Xeon E7-2850 has 10 cores).",
+            "Feature": {
+              "ID": "6089",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "138113",
+                "Value": "Processor cores",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6887,
+        "SortNo": "92",
+        "FeatureGroup": {
+          "ID": "47",
+          "Name": {
+            "ID": "8858",
+            "Value": "Storage",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028363",
+            "Type": "numerical",
+            "Value": "3",
+            "CategoryFeatureId": "180947",
+            "CategoryFeatureGroupID": "6887",
+            "SortNo": "40",
+            "PresentationValue": "3 GB",
+            "RawValue": "3",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "7861",
+              "Sign": "",
+              "Measure": {
+                "ID": "20",
+                "Sign": "",
+                "Signs": {
+                  "ID": "7",
+                  "_": "GB",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "608573",
+                "Value": "RAM capacity",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028366",
+            "Type": "numerical",
+            "Value": "16",
+            "CategoryFeatureId": "51697",
+            "CategoryFeatureGroupID": "6887",
+            "SortNo": "38",
+            "PresentationValue": "16 GB",
+            "RawValue": "16",
+            "LocalValue": [],
+            "Description": "The amount e.g of data which can be stored inside the device.",
+            "Feature": {
+              "ID": "8730",
+              "Sign": "",
+              "Measure": {
+                "ID": "20",
+                "Sign": "",
+                "Signs": {
+                  "ID": "7",
+                  "_": "GB",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "734192",
+                "Value": "Internal storage capacity",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028371",
+            "Type": "multi_dropdown",
+            "Value": "MicroSD (TransFlash)",
+            "CategoryFeatureId": "51501",
+            "CategoryFeatureGroupID": "6887",
+            "SortNo": "20",
+            "PresentationValue": "MicroSD (TransFlash)",
+            "RawValue": "MicroSD (TransFlash)",
+            "LocalValue": [],
+            "Description": "Types of memory cards which can be used with this product.",
+            "Feature": {
+              "ID": "730",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2991",
+                "Value": "Compatible memory cards",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028376",
+            "Type": "numerical",
+            "Value": "256",
+            "CategoryFeatureId": "51502",
+            "CategoryFeatureGroupID": "6887",
+            "SortNo": "16",
+            "PresentationValue": "256 GB",
+            "RawValue": "256",
+            "LocalValue": [],
+            "Description": "The maximum size of memory card that can be used with this device.",
+            "Feature": {
+              "ID": "7021",
+              "Sign": "",
+              "Measure": {
+                "ID": "20",
+                "Sign": "",
+                "Signs": {
+                  "ID": "7",
+                  "_": "GB",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "334646",
+                "Value": "Maximum memory card size",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028380",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51784",
+            "CategoryFeatureGroupID": "6887",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "3797",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "43258",
+                "Value": "USB mass storage",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6888,
+        "SortNo": "88",
+        "FeatureGroup": {
+          "ID": "95",
+          "Name": {
+            "ID": "31282",
+            "Value": "Camera",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028394",
+            "Type": "dropdown",
+            "Value": "Single camera",
+            "CategoryFeatureId": "175569",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "60",
+            "PresentationValue": "Single camera",
+            "RawValue": "Single camera",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "27587",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2433206",
+                "Value": "Rear camera type",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028398",
+            "Type": "numerical",
+            "Value": "13",
+            "CategoryFeatureId": "175570",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "50",
+            "PresentationValue": "13 MP",
+            "RawValue": "13",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "12435",
+              "Sign": "",
+              "Measure": {
+                "ID": "165",
+                "Sign": "",
+                "Signs": {
+                  "ID": "3126",
+                  "_": "MP",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1089247",
+                "Value": "Rear camera resolution (numeric)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028412",
+            "Type": "text",
+            "Value": "Y",
+            "CategoryFeatureId": "53994",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "47",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "The amount that the camera lens can zoom.",
+            "Feature": {
+              "ID": "472",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2475",
+                "Value": "Zoom capability",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028414",
+            "Type": "numerical",
+            "Value": "4",
+            "CategoryFeatureId": "51756",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "46",
+            "PresentationValue": "4x",
+            "RawValue": "4",
+            "LocalValue": [],
+            "Description": "Indicates the digital zoom capacity, the number of times that the picture is enlarged thanks to digital technology.",
+            "Feature": {
+              "ID": "48",
+              "Sign": "",
+              "Measure": {
+                "ID": "33",
+                "Sign": "",
+                "Signs": {
+                  "ID": "17",
+                  "_": "x",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1433",
+                "Value": "Digital zoom",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028402",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51507",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "44",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Device focusing a camera or other piece of equipment automatically.",
+            "Feature": {
+              "ID": "1614",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5009",
+                "Value": "Auto focus",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028423",
+            "Type": "multi_dropdown",
+            "Value": "Auto",
+            "CategoryFeatureId": "51708",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "36",
+            "PresentationValue": "Auto",
+            "RawValue": "Auto",
+            "LocalValue": [],
+            "Description": "Technique in photography and image processing, which involves a global adjustment of the intensities of the colors (typically red, green, and blue primary colors). An important goal of this adjustment is to render specific colors – particularly neutral colors including white – correctly.",
+            "Feature": {
+              "ID": "682",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2895",
+                "Value": "White balance",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028430",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51505",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "30",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Recording moving visual images.",
+            "Feature": {
+              "ID": "8649",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "727927",
+                "Value": "Video recording",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028432",
+            "Type": "multi_dropdown",
+            "Value": "480p, 720p, 1080p",
+            "CategoryFeatureId": "51508",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "28",
+            "PresentationValue": "480p,720p,1080p",
+            "RawValue": "480p,720p,1080p",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "8745",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "734863",
+                "Value": "Video recording modes",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028438",
+            "Type": "numerical",
+            "Value": "60",
+            "CategoryFeatureId": "51713",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "27",
+            "PresentationValue": "60 fps",
+            "RawValue": "60",
+            "LocalValue": [],
+            "Description": "This is the maximum frame rate, also known as frame frequency and frames per second (FPS). It is the frequency (rate) at which an imaging device produces unique consecutive images called frames. The term applies equally well to film and video cameras, computer graphics, and motion capture systems. Frame rate is most often expressed in frames per second (FPS) and is also expressed in progressive scan monitors as hertz (Hz).",
+            "Feature": {
+              "ID": "7515",
+              "Sign": "",
+              "Measure": {
+                "ID": "85",
+                "Sign": "",
+                "Signs": {
+                  "ID": "67",
+                  "_": "fps",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "566478",
+                "Value": "Maximum frame rate",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028445",
+            "Type": "text",
+            "Value": "LED",
+            "CategoryFeatureId": "51506",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "14",
+            "PresentationValue": "LED",
+            "RawValue": "LED",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "6697",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "247847",
+                "Value": "Flash type",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028452",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "53996",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9042",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "758502",
+                "Value": "Multi-shot",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028449",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "55074",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "2681",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "13563",
+                "Value": "Night mode",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028404",
+            "Type": "dropdown",
+            "Value": "Y",
+            "CategoryFeatureId": "53995",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "The product has an internal flash. A flash produces a brief very bright light, used for taking photographs in poor light.",
+            "Feature": {
+              "ID": "1289",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "4119",
+                "Value": "Built-in flash",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "252310184",
+            "Type": "dropdown",
+            "Value": "Single camera",
+            "CategoryFeatureId": "222716",
+            "CategoryFeatureGroupID": "6888",
+            "SortNo": "-5",
+            "PresentationValue": "Single camera",
+            "RawValue": "Single camera",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "33562",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "3407684",
+                "Value": "Front camera type",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6890,
+        "SortNo": "84",
+        "FeatureGroup": {
+          "ID": "35",
+          "Name": {
+            "ID": "5167",
+            "Value": "Networking",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028497",
+            "Type": "dropdown",
+            "Value": "Dual SIM",
+            "CategoryFeatureId": "115466",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "497",
+            "PresentationValue": "Dual SIM",
+            "RawValue": "Dual SIM",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "19653",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1492752",
+                "Value": "SIM card capability",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028500",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "95628",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "100",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Third generation of mobile telecommunications technology, 3G finds application in wireless voice telephony, mobile Internet access, fixed wireless Internet access, video calls and mobile TV.",
+            "Feature": {
+              "ID": "6644",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "244818",
+                "Value": "3G",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028515",
+            "Type": "dropdown",
+            "Value": "NanoSIM",
+            "CategoryFeatureId": "56682",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "99",
+            "PresentationValue": "NanoSIM",
+            "RawValue": "NanoSIM",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9166",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "763836",
+                "Value": "SIM card type",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028503",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "95629",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "99",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Fourth generation of mobile phone mobile communication technology standards. A 4G system provides mobile ultra-broadband Internet access, for example to laptops with USB wireless modems, to smartphones, and to other mobile devices. Conceivable applications include amended mobile web access, IP telephony, gaming services, high-definition mobile TV, video conferencing, 3D television, and cloud computing.",
+            "Feature": {
+              "ID": "16921",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1217801",
+                "Value": "4G",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028521",
+            "Type": "multi_dropdown",
+            "Value": "GSM",
+            "CategoryFeatureId": "95630",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "70",
+            "PresentationValue": "GSM",
+            "RawValue": "GSM",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "16924",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1217936",
+                "Value": "2G standards",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028530",
+            "Type": "multi_dropdown",
+            "Value": "WCDMA",
+            "CategoryFeatureId": "95631",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "69",
+            "PresentationValue": "WCDMA",
+            "RawValue": "WCDMA",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "16923",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1217891",
+                "Value": "3G standards",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028534",
+            "Type": "dropdown",
+            "Value": "LTE",
+            "CategoryFeatureId": "95632",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "68",
+            "PresentationValue": "LTE",
+            "RawValue": "LTE",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "16922",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1217846",
+                "Value": "4G standard",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028504",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51513",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "36",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Popular technology that allows an electronic device to exchange data or connect to the internet wirelessly using radio waves.",
+            "Feature": {
+              "ID": "3239",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "30766",
+                "Value": "Wi-Fi",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028538",
+            "Type": "multi_dropdown",
+            "Value": "IEEE 802.11a, IEEE 802.11ac, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n",
+            "CategoryFeatureId": "51514",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "35",
+            "PresentationValue": "IEEE 802.11a,IEEE 802.11ac,IEEE 802.11b,IEEE 802.11g,IEEE 802.11n",
+            "RawValue": "IEEE 802.11a,IEEE 802.11ac,IEEE 802.11b,IEEE 802.11g,IEEE 802.11n",
+            "LocalValue": [],
+            "Description": "The type of wireless local area network (LAN). It can be ad-hoc, where units in a network communicate peer-to-peer, or Infrastructure, where units communicate with each other via an access point  A LAN interconnects computers in a small area e.g. home, school or office.",
+            "Feature": {
+              "ID": "432",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2231",
+                "Value": "Wi-Fi standards",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028540",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51515",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "33",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Bluetooth is a low-power radio technology developed to replace the cables and wires currently used to link or connect electronic devices such as personal computers, printers, and a wide variety of handheld devices including mobile phones. Because it uses radio-wave connectivity, a Bluetooth-enabled device has a constant, established connection to whatever browser it uses. This saves the user the trouble of logging on to check for emails or news updates, for example.",
+            "Feature": {
+              "ID": "2183",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "11148",
+                "Value": "Bluetooth",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028545",
+            "Type": "dropdown",
+            "Value": "4.1",
+            "CategoryFeatureId": "51516",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "32",
+            "PresentationValue": "4.1",
+            "RawValue": "4.1",
+            "LocalValue": [],
+            "Description": "The type of bluetooth technology in the product e.g. Bluetooth Smart (v4.0).",
+            "Feature": {
+              "ID": "1208",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "3957",
+                "Value": "Bluetooth version",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028550",
+            "Type": "multi_dropdown",
+            "Value": "A2DP, AVRCP, HFP, HID, HOGP, HSP, MAP, OPP, PAN, PBAP",
+            "CategoryFeatureId": "51527",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "31",
+            "PresentationValue": "A2DP, AVRCP, HFP, HID, HOGP, HSP, MAP, OPP, Pan, PBAP",
+            "RawValue": "A2DP,AVRCP,HFP,HID,HOGP,HSP,MAP,OPP,PAN,PBAP",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "4133",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "58884",
+                "Value": "Bluetooth profiles",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028552",
+            "Type": "multi_dropdown",
+            "Value": "850, 900, 1800, 1900",
+            "CategoryFeatureId": "51524",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "10",
+            "PresentationValue": "850,900,1800,1900 MHz",
+            "RawValue": "850,900,1800,1900",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "7061",
+              "Sign": "",
+              "Measure": {
+                "ID": "18",
+                "Sign": "",
+                "Signs": {
+                  "ID": "9",
+                  "_": "MHz",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "342491",
+                "Value": "2G bands (primary SIM)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028554",
+            "Type": "multi_dropdown",
+            "Value": "850, 900, 1900, 2100",
+            "CategoryFeatureId": "119090",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "8",
+            "PresentationValue": "850,900,1900,2100 MHz",
+            "RawValue": "850,900,1900,2100",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "8367",
+              "Sign": "",
+              "Measure": {
+                "ID": "18",
+                "Sign": "",
+                "Signs": {
+                  "ID": "9",
+                  "_": "MHz",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "641365",
+                "Value": "3G bands supported",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028557",
+            "Type": "multi_dropdown",
+            "Value": "800, 850, 900, 1800, 2100, 2600",
+            "CategoryFeatureId": "90956",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "6",
+            "PresentationValue": "800,850,900,1800,2100,2600 MHz",
+            "RawValue": "800,850,900,1800,2100,2600",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "14695",
+              "Sign": "",
+              "Measure": {
+                "ID": "18",
+                "Sign": "",
+                "Signs": {
+                  "ID": "9",
+                  "_": "MHz",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1143655",
+                "Value": "4G bands supported",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028563",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "138770",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9779",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "816915",
+                "Value": "Wi-Fi Direct",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028567",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "63985",
+            "CategoryFeatureGroupID": "6890",
+            "SortNo": "-5",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "10157",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "878154",
+                "Value": "Near Field Communication (NFC)",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 18408,
+        "SortNo": "83",
+        "FeatureGroup": {
+          "ID": "211",
+          "Name": {
+            "ID": "2316647",
+            "Value": "Subscription",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028570",
+            "Type": "dropdown",
+            "Value": "No subscription",
+            "CategoryFeatureId": "55137",
+            "CategoryFeatureGroupID": "18408",
+            "SortNo": "46",
+            "PresentationValue": "No subscription",
+            "RawValue": "No subscription",
+            "LocalValue": [],
+            "Description": "The type of cellular connection subscription.",
+            "Feature": {
+              "ID": "8578",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "722468",
+                "Value": "Subscription type",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6889,
+        "SortNo": "80",
+        "FeatureGroup": {
+          "ID": "12",
+          "Name": {
+            "ID": "4995",
+            "Value": "Ports & interfaces",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028573",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "146621",
+            "CategoryFeatureGroupID": "6889",
+            "SortNo": "70",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "23798",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1953766",
+                "Value": "USB port",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028575",
+            "Type": "multi_dropdown",
+            "Value": "Micro-USB",
+            "CategoryFeatureId": "51510",
+            "CategoryFeatureGroupID": "6889",
+            "SortNo": "60",
+            "PresentationValue": "Micro-USB",
+            "RawValue": "Micro-USB",
+            "LocalValue": [],
+            "Description": "The type of USB connector/port that this product has.",
+            "Feature": {
+              "ID": "1742",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5431",
+                "Value": "USB connector type",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028581",
+            "Type": "dropdown",
+            "Value": "2.0",
+            "CategoryFeatureId": "53993",
+            "CategoryFeatureGroupID": "6889",
+            "SortNo": "50",
+            "PresentationValue": "2.0",
+            "RawValue": "2.0",
+            "LocalValue": [],
+            "Description": "Universal Serial Bus (USB) is an industry standard developed in the mid-1990s that defines the interface used for connection, communication and power supply between computers and electronic devices. Every new version - for example 1.1, 2.0, 3.0 - is much faster than the previous one.",
+            "Feature": {
+              "ID": "8541",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "718602",
+                "Value": "USB version",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028583",
+            "Type": "numerical",
+            "Value": "0",
+            "CategoryFeatureId": "51745",
+            "CategoryFeatureGroupID": "6889",
+            "SortNo": "18",
+            "PresentationValue": "0",
+            "RawValue": "0",
+            "LocalValue": [],
+            "Description": "The number of sockets (ports) for HDMI connections. HDMI (High-Definition Multimedia Interface) is a compact audio/video interface for transferring uncompressed video data and compressed/uncompressed digital audio data from a HDMI-compliant device (\"the source device\") to a compatible computer monitor, video projector, digital television, or digital audio device. HDMI is a digital replacement for existing analog video standards.",
+            "Feature": {
+              "ID": "3566",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "39496",
+                "Value": "HDMI ports quantity",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028587",
+            "Type": "dropdown",
+            "Value": "3.5 mm",
+            "CategoryFeatureId": "51511",
+            "CategoryFeatureGroupID": "6889",
+            "SortNo": "16",
+            "PresentationValue": "3.5 mm",
+            "RawValue": "3.5 mm",
+            "LocalValue": [],
+            "Description": "How headphones connect to a device e.g. wirelessly or via a cable and connector.",
+            "Feature": {
+              "ID": "4163",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "59050",
+                "Value": "Headphone connectivity",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6919,
+        "SortNo": "75",
+        "FeatureGroup": {
+          "ID": "50",
+          "Name": {
+            "ID": "11136",
+            "Value": "Messaging",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028620",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51656",
+            "CategoryFeatureGroupID": "6919",
+            "SortNo": "100",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "1901",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5893",
+                "Value": "Short Message Service (SMS)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028622",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51654",
+            "CategoryFeatureGroupID": "6919",
+            "SortNo": "90",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Multimedia Messaging Service (MMS) is a new standard that is being defined for use in advanced wireless terminals. The service allows for non-real-time transmission of various kinds of multimedia contents like images, audio, video clips, etc.",
+            "Feature": {
+              "ID": "2180",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "11139",
+                "Value": "MMS (Multimedia Messaging Service)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028625",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51655",
+            "CategoryFeatureGroupID": "6919",
+            "SortNo": "80",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "6621",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "241348",
+                "Value": "Instant messaging (IM)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028632",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "54008",
+            "CategoryFeatureGroupID": "6919",
+            "SortNo": "50",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "2182",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "11145",
+                "Value": "Chat",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028633",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "146646",
+            "CategoryFeatureGroupID": "6919",
+            "SortNo": "40",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "23802",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1960088",
+                "Value": "E-mail",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 11003,
+        "SortNo": "70",
+        "FeatureGroup": {
+          "ID": "148",
+          "Name": {
+            "ID": "630457",
+            "Value": "Design",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028652",
+            "Type": "text",
+            "Value": "Bar",
+            "CategoryFeatureId": "51570",
+            "CategoryFeatureGroupID": "11003",
+            "SortNo": "55",
+            "PresentationValue": "Bar",
+            "RawValue": "Bar",
+            "LocalValue": [],
+            "Description": "The shape or design of the product.",
+            "Feature": {
+              "ID": "771",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "3073",
+                "Value": "Form factor",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028655",
+            "Type": "multi_dropdown",
+            "Value": "Blue",
+            "CategoryFeatureId": "143786",
+            "CategoryFeatureGroupID": "11003",
+            "SortNo": "35",
+            "PresentationValue": "Blue",
+            "RawValue": "Blue",
+            "LocalValue": [],
+            "Description": "The colour e.g. red, blue, green, black, white.",
+            "Feature": {
+              "ID": "1766",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5487",
+                "Value": "Colour of product",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028673",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "94723",
+            "CategoryFeatureGroupID": "11003",
+            "SortNo": "4",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "A scanner used to identify a person's fingerprint for security purposes. After a sample is taken, access to a computer or other system is granted if the fingerprint matches the stored sample. A PIN may also be used with the fingerprint sample.",
+            "Feature": {
+              "ID": "3577",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "39580",
+                "Value": "Fingerprint reader",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 18402,
+        "SortNo": "69",
+        "FeatureGroup": {
+          "ID": "96",
+          "Name": {
+            "ID": "31318",
+            "Value": "Ergonomics",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028689",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "59559",
+            "CategoryFeatureGroupID": "18402",
+            "SortNo": "11",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "8720",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "733782",
+                "Value": "Ambient light sensor",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028686",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "57380",
+            "CategoryFeatureGroupID": "18402",
+            "SortNo": "11",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9731",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "811310",
+                "Value": "Accelerometer",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028685",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51566",
+            "CategoryFeatureGroupID": "18402",
+            "SortNo": "11",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "8698",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "730603",
+                "Value": "Proximity sensor",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028696",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "106231",
+            "CategoryFeatureGroupID": "18402",
+            "SortNo": "10",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9732",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "811351",
+                "Value": "Gyroscope",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 11002,
+        "SortNo": "65",
+        "FeatureGroup": {
+          "ID": "184",
+          "Name": {
+            "ID": "1218765",
+            "Value": "Performance",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028800",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51712",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "80",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Simultaneous video and audio signals to enable people to talk to and see each other in real time.",
+            "Feature": {
+              "ID": "7018",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "334549",
+                "Value": "Video call",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249029754",
+            "Type": "text",
+            "Value": "Mali-T830 MP2",
+            "CategoryFeatureId": "169461",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "30",
+            "PresentationValue": "Mali-T830 MP2",
+            "RawValue": "Mali-T830 MP2",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "614",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2759",
+                "Value": "Graphics adapter",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028824",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "55120",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "2673",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "13539",
+                "Value": "Microphone mute",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028827",
+            "Type": "multi_dropdown",
+            "Value": "Wallpapers",
+            "CategoryFeatureId": "59634",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "0",
+            "PresentationValue": "Wallpapers",
+            "RawValue": "Wallpapers",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9832",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "822025",
+                "Value": "Themes",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028815",
+            "Type": "multi_dropdown",
+            "Value": "Ringtones, Shortcuts, Themes, Wallpaper, Widgets",
+            "CategoryFeatureId": "55087",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "0",
+            "PresentationValue": "Ringtones, Shortcuts, Themes, Wallpaper, Widgets",
+            "RawValue": "Ringtones,Shortcuts,Themes,Wallpaper,Widgets",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "1455",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "4607",
+                "Value": "Personalization",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028807",
+            "Type": "multi_dropdown",
+            "Value": "Alarm clock, Calculator, Calendar, Notes, Recorder",
+            "CategoryFeatureId": "51526",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "0",
+            "PresentationValue": "Alarm clock, Calculator, Calendar, Notes, Recorder",
+            "RawValue": "Alarm clock,Calculator,Calendar,Notes,Recorder",
+            "LocalValue": [],
+            "Description": "You can use your device to manage your information and your time.",
+            "Feature": {
+              "ID": "4277",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "59896",
+                "Value": "Personal info management (PIM)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028811",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51787",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "7351",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "495139",
+                "Value": "Flight mode",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028822",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "55111",
+            "CategoryFeatureGroupID": "11002",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "6627",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "241537",
+                "Value": "Support for contact groups",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 11005,
+        "SortNo": "60",
+        "FeatureGroup": {
+          "ID": "54",
+          "Name": {
+            "ID": "11868",
+            "Value": "Navigation",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028236",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51652",
+            "CategoryFeatureGroupID": "11005",
+            "SortNo": "40",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Assisted GPS, generally abbreviated as A-GPS, enhances the startup performance of a GPS satellite-based positioning system. It is used extensively with GPS-capable cellular phones as its development was accelerated by the U.S. FCC's 911 mandate making the location of a cell phone available to emergency call dispatchers.",
+            "Feature": {
+              "ID": "6623",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "241402",
+                "Value": "Assisted GPS (A-GPS)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028237",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51755",
+            "CategoryFeatureGroupID": "11005",
+            "SortNo": "30",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Global Positioning System (GPS) is a space-based satellite navigation system that provides location and time information in all weather conditions, anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites. The system provides critical capabilities to military, civil and commercial users around the world. It is maintained by the United States government and is freely accessible to anyone with a GPS receiver.",
+            "Feature": {
+              "ID": "3329",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "31840",
+                "Value": "GPS (satellite)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028240",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "184929",
+            "CategoryFeatureGroupID": "11005",
+            "SortNo": "8",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "28694",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2579566",
+                "Value": "BeiDou",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028238",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "94591",
+            "CategoryFeatureGroupID": "11005",
+            "SortNo": "8",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "15618",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1177617",
+                "Value": "GLONASS",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028234",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "166073",
+            "CategoryFeatureGroupID": "11005",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "26425",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2268247",
+                "Value": "Position location",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 11006,
+        "SortNo": "55",
+        "FeatureGroup": {
+          "ID": "186",
+          "Name": {
+            "ID": "1222838",
+            "Value": "Multimedia",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028288",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51556",
+            "CategoryFeatureGroupID": "11006",
+            "SortNo": "40",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Frequency-modulated (FM) radio gives the clearest reception of any radio band. When used with a headset, it delivers stereo-like sound.",
+            "Feature": {
+              "ID": "2172",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "10005",
+                "Value": "FM radio",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028292",
+            "Type": "multi_dropdown",
+            "Value": "3GA, AAC, AMR, AWB, FLAC, IMY, MID, MIDI, MP3, MPA, MXMF, OGA, OGG, OTA, RTTTL, RTX, WAV, WMA, XMF",
+            "CategoryFeatureId": "51528",
+            "CategoryFeatureGroupID": "11006",
+            "SortNo": "-11",
+            "PresentationValue": "3GA, AAC, AMR, AWB, FLAC, IMY, Mid, MIDI, MP3, MPA, MXMF, OGA, OGG, OTA, RTTTL, RTX, WAV, WMA, XMF",
+            "RawValue": "3GA,AAC,AMR,AWB,FLAC,IMY,MID,MIDI,MP3,MPA,MXMF,OGA,OGG,OTA,RTTTL,RTX,WAV,WMA,XMF",
+            "LocalValue": [],
+            "Description": "The audio formats which this device or software can read/use e.g. MP3, MP4.",
+            "Feature": {
+              "ID": "2224",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "11430",
+                "Value": "Audio formats supported",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028294",
+            "Type": "multi_dropdown",
+            "Value": "3G2, 3GP, ASF, AVI, FLV, M4V, MKV, MP4, WEBM, WMV",
+            "CategoryFeatureId": "51529",
+            "CategoryFeatureGroupID": "11006",
+            "SortNo": "-12",
+            "PresentationValue": "3G2,3GP,ASF,AVI,FLV,M4V,MKV,MP4,WEBM,WMV",
+            "RawValue": "3G2,3GP,ASF,AVI,FLV,M4V,MKV,MP4,WEBM,WMV",
+            "LocalValue": [],
+            "Description": "The type of video formats that can be used by this device.",
+            "Feature": {
+              "ID": "6893",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "331780",
+                "Value": "Video formats supported",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028296",
+            "Type": "multi_dropdown",
+            "Value": "BMP, GIF, JPG, PNG",
+            "CategoryFeatureId": "51530",
+            "CategoryFeatureGroupID": "11006",
+            "SortNo": "-13",
+            "PresentationValue": "BMP,GIF,JPG,PNG",
+            "RawValue": "BMP,GIF,JPG,PNG",
+            "LocalValue": [],
+            "Description": "The type of image files that the device can use/display e.g. gif, JPEG (jpg).",
+            "Feature": {
+              "ID": "2417",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "12432",
+                "Value": "Image formats supported",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6901,
+        "SortNo": "35",
+        "FeatureGroup": {
+          "ID": "118",
+          "Name": {
+            "ID": "80021",
+            "Value": "Call management",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028324",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51747",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "1808",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5601",
+                "Value": "Conference call",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028328",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51786",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "3541",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "33988",
+                "Value": "Vibrating alert",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028332",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51748",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "2962",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "28191",
+                "Value": "Speed dialing",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028333",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "55108",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "6619",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "241294",
+                "Value": "Call timer",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028321",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51721",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "Device has a microphone and loudspeaker provided separately from those in the handset. This device allows multiple persons to participate in a conversation. The loudspeaker broadcasts the voice or voices of those on the other end of the telephone line, while the microphone captures all voices of those using the speakerphone.",
+            "Feature": {
+              "ID": "1805",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5593",
+                "Value": "Speakerphone",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028320",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51720",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "The name and/or number of the caller comes up on screen when they ring the phone. You also send your caller ID when you call someone else unless you choose to deactivate it.",
+            "Feature": {
+              "ID": "2672",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "13536",
+                "Value": "Caller ID",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028315",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51562",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "7349",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "495028",
+                "Value": "Call divert",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028318",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51563",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "6698",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "247875",
+                "Value": "Call hold",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028319",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51565",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "6708",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "249404",
+                "Value": "Call blocking",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028314",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "51561",
+            "CategoryFeatureGroupID": "6901",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "2748",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "13914",
+                "Value": "Call waiting",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 18401,
+        "SortNo": "20",
+        "FeatureGroup": {
+          "ID": "90",
+          "Name": {
+            "ID": "30562",
+            "Value": "Software",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028344",
+            "Type": "dropdown",
+            "Value": "Android",
+            "CategoryFeatureId": "83499",
+            "CategoryFeatureGroupID": "18401",
+            "SortNo": "495",
+            "PresentationValue": "Android",
+            "RawValue": "Android",
+            "LocalValue": [],
+            "Description": "Type of operating system on a device e.g. IOS on Apple devices, Android for mobile devices.",
+            "Feature": {
+              "ID": "3233",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "30700",
+                "Value": "Operating system installed",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028347",
+            "Type": "text",
+            "Value": "7.0 Nougat",
+            "CategoryFeatureId": "54618",
+            "CategoryFeatureGroupID": "18401",
+            "SortNo": "59",
+            "PresentationValue": "7.0 Nougat",
+            "RawValue": "7.0 Nougat",
+            "LocalValue": [],
+            "Description": "The version of the operating system used e.g. 4.1, 4.2 for Android.",
+            "Feature": {
+              "ID": "7697",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "596009",
+                "Value": "Operating system version",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6892,
+        "SortNo": "5",
+        "FeatureGroup": {
+          "ID": "143",
+          "Name": {
+            "ID": "618812",
+            "Value": "Battery",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028458",
+            "Type": "numerical",
+            "Value": "3600",
+            "CategoryFeatureId": "51519",
+            "CategoryFeatureGroupID": "6892",
+            "SortNo": "38",
+            "PresentationValue": "3600 mAh",
+            "RawValue": "3600",
+            "LocalValue": [],
+            "Description": "A measure of the charge stored by the battery. Determined by the mass of active material contained in the battery.",
+            "Feature": {
+              "ID": "909",
+              "Sign": "",
+              "Measure": {
+                "ID": "51",
+                "Sign": "",
+                "Signs": {
+                  "ID": "35",
+                  "_": "mAh",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "3359",
+                "Value": "Battery capacity",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028460",
+            "Type": "numerical",
+            "Value": "24",
+            "CategoryFeatureId": "51521",
+            "CategoryFeatureGroupID": "6892",
+            "SortNo": "26",
+            "PresentationValue": "24 h",
+            "RawValue": "24",
+            "LocalValue": [],
+            "Description": "The time a 3G cell/mobile phone  with a fully-charged battery is expected to last under perfect conditions.",
+            "Feature": {
+              "ID": "7283",
+              "Sign": "",
+              "Measure": {
+                "ID": "46",
+                "Sign": "",
+                "Signs": {
+                  "ID": "30",
+                  "_": "h",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "354861",
+                "Value": "Talk time (3G)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028471",
+            "Type": "numerical",
+            "Value": "16",
+            "CategoryFeatureId": "90957",
+            "CategoryFeatureGroupID": "6892",
+            "SortNo": "20",
+            "PresentationValue": "16 h",
+            "RawValue": "16",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "15264",
+              "Sign": "",
+              "Measure": {
+                "ID": "46",
+                "Sign": "",
+                "Signs": {
+                  "ID": "30",
+                  "_": "h",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1159244",
+                "Value": "Browsing time (Wi-Fi)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028475",
+            "Type": "numerical",
+            "Value": "12",
+            "CategoryFeatureId": "90958",
+            "CategoryFeatureGroupID": "6892",
+            "SortNo": "18",
+            "PresentationValue": "12 h",
+            "RawValue": "12",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "15265",
+              "Sign": "",
+              "Measure": {
+                "ID": "46",
+                "Sign": "",
+                "Signs": {
+                  "ID": "30",
+                  "_": "h",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1159288",
+                "Value": "Browsing time (3G)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028478",
+            "Type": "numerical",
+            "Value": "15",
+            "CategoryFeatureId": "90959",
+            "CategoryFeatureGroupID": "6892",
+            "SortNo": "17",
+            "PresentationValue": "15 h",
+            "RawValue": "15",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "15266",
+              "Sign": "",
+              "Measure": {
+                "ID": "46",
+                "Sign": "",
+                "Signs": {
+                  "ID": "30",
+                  "_": "h",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1159332",
+                "Value": "Browsing time (4G)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028488",
+            "Type": "numerical",
+            "Value": "91",
+            "CategoryFeatureId": "184939",
+            "CategoryFeatureGroupID": "6892",
+            "SortNo": "2",
+            "PresentationValue": "91 h",
+            "RawValue": "91",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "28695",
+              "Sign": "",
+              "Measure": {
+                "ID": "46",
+                "Sign": "",
+                "Signs": {
+                  "ID": "30",
+                  "_": "h",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "2579617",
+                "Value": "Continuous audio playback time (display off)",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028485",
+            "Type": "numerical",
+            "Value": "59",
+            "CategoryFeatureId": "51657",
+            "CategoryFeatureGroupID": "6892",
+            "SortNo": "2",
+            "PresentationValue": "59 h",
+            "RawValue": "59",
+            "LocalValue": [],
+            "Description": "Number of hours on average for continuous play. This is dependent on the device battery capacity.",
+            "Feature": {
+              "ID": "2169",
+              "Sign": "",
+              "Measure": {
+                "ID": "46",
+                "Sign": "",
+                "Signs": {
+                  "ID": "30",
+                  "_": "h",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "9936",
+                "Value": "Continuous audio playback time",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6881,
+        "SortNo": "-1",
+        "FeatureGroup": {
+          "ID": "14",
+          "Name": {
+            "ID": "5023",
+            "Value": "Weight & dimensions",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028596",
+            "Type": "numerical",
+            "Value": "74.8",
+            "CategoryFeatureId": "51488",
+            "CategoryFeatureGroupID": "6881",
+            "SortNo": "10",
+            "PresentationValue": "74.8 mm",
+            "RawValue": "74.8",
+            "LocalValue": [],
+            "Description": "The measurement or extent of something from side to side.",
+            "Feature": {
+              "ID": "1649",
+              "Sign": "",
+              "Measure": {
+                "ID": "24",
+                "Sign": "",
+                "Signs": {
+                  "ID": "3",
+                  "_": "mm",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5143",
+                "Value": "Width",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028603",
+            "Type": "numerical",
+            "Value": "8",
+            "CategoryFeatureId": "51489",
+            "CategoryFeatureGroupID": "6881",
+            "SortNo": "9",
+            "PresentationValue": "8 mm",
+            "RawValue": "8",
+            "LocalValue": [],
+            "Description": "The distance from the front to the back of something.",
+            "Feature": {
+              "ID": "1650",
+              "Sign": "",
+              "Measure": {
+                "ID": "24",
+                "Sign": "",
+                "Signs": {
+                  "ID": "3",
+                  "_": "mm",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "5145",
+                "Value": "Depth",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028607",
+            "Type": "numerical",
+            "Value": "152.5",
+            "CategoryFeatureId": "51490",
+            "CategoryFeatureGroupID": "6881",
+            "SortNo": "8",
+            "PresentationValue": "152.5 mm",
+            "RawValue": "152.5",
+            "LocalValue": [],
+            "Description": "The measurement of the product from head to foot or from base to top.",
+            "Feature": {
+              "ID": "1464",
+              "Sign": "",
+              "Measure": {
+                "ID": "24",
+                "Sign": "",
+                "Signs": {
+                  "ID": "3",
+                  "_": "mm",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "4625",
+                "Value": "Height",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028591",
+            "Type": "numerical",
+            "Value": "181",
+            "CategoryFeatureId": "51491",
+            "CategoryFeatureGroupID": "6881",
+            "SortNo": "7",
+            "PresentationValue": "181 g",
+            "RawValue": "181",
+            "LocalValue": [],
+            "Description": "Weight of the product without packaging (net weight). If possible, the net weight is given including standard accessories and supplies. Please note that sometimes the manufacturer leaves out the weight of accessories and/or supplies.",
+            "Feature": {
+              "ID": "94",
+              "Sign": "",
+              "Measure": {
+                "ID": "38",
+                "Sign": "",
+                "Signs": {
+                  "ID": "22",
+                  "_": "g",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1525",
+                "Value": "Weight",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 6936,
+        "SortNo": "-5",
+        "FeatureGroup": {
+          "ID": "76",
+          "Name": {
+            "ID": "28540",
+            "Value": "Certificates",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028617",
+            "Type": "textarea",
+            "Value": "CE",
+            "CategoryFeatureId": "67296",
+            "CategoryFeatureGroupID": "6936",
+            "SortNo": "0",
+            "PresentationValue": "CE",
+            "RawValue": "CE",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "249",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1865",
+                "Value": "Certification",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "ID": 11007,
+        "SortNo": "-100",
+        "FeatureGroup": {
+          "ID": "0",
+          "Name": {
+            "ID": "5073",
+            "Value": "Technical details",
+            "Language": "EN"
+          }
+        },
+        "Features": [
+          {
+            "Localized": 0,
+            "ID": "249028877",
+            "Type": "y_n",
+            "Value": "Y",
+            "CategoryFeatureId": "100191",
+            "CategoryFeatureGroupID": "11007",
+            "SortNo": "0",
+            "PresentationValue": "Y",
+            "RawValue": "Y",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "46",
+              "Sign": "",
+              "Measure": {
+                "ID": "26",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1621",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "1429",
+                "Value": "Colour",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028857",
+            "Type": "multi_dropdown",
+            "Value": "Metal",
+            "CategoryFeatureId": "117225",
+            "CategoryFeatureGroupID": "11007",
+            "SortNo": "0",
+            "PresentationValue": "Metal",
+            "RawValue": "Metal",
+            "LocalValue": [],
+            "Description": "The material from which a thing is or can be made e.g. wood, plastic.",
+            "Feature": {
+              "ID": "898",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "3337",
+                "Value": "Material",
+                "Language": "EN"
+              }
+            }
+          },
+          {
+            "Localized": 0,
+            "ID": "249028838",
+            "Type": "multi_dropdown",
+            "Value": "Gmail, Google Drive, Google Maps, YouTube",
+            "CategoryFeatureId": "97522",
+            "CategoryFeatureGroupID": "11007",
+            "SortNo": "0",
+            "PresentationValue": "Gmail,Google Drive,Google Maps,YouTube",
+            "RawValue": "Gmail,Google Drive,Google Maps,YouTube",
+            "LocalValue": [],
+            "Description": "",
+            "Feature": {
+              "ID": "9780",
+              "Sign": "",
+              "Measure": {
+                "ID": "29",
+                "Sign": "",
+                "Signs": {
+                  "ID": "1453",
+                  "_": "",
+                  "Language": "EN"
+                }
+              },
+              "Name": {
+                "ID": "817038",
+                "Value": "Google applications",
+                "Language": "EN"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "FeatureLogos": [
+      {
+        "FeatureID": "2183",
+        "Value": [ "Y" ],
+        "LogoPic": "http://images.icecat.biz/img/feature_logo/1-3750.png",
+        "Width": "200",
+        "Height": "200",
+        "Size": "27992",
+        "Description": {
+          "Value": "Bluetooth is a proprietary open wireless technology standard for exchanging data over short distances (using short-wavelength radio transmissions in the ISM band from 2400–2480 MHz) from fixed and mobile devices, creating personal area networks (PANs) with high levels of security.",
+          "Language": "EN"
+        }
+      }
+    ],
+    "ReasonsToBuy": [],
+    "Reviews": [],
+    "DemoAccount": true
+  }
+}

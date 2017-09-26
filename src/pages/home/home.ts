@@ -20,6 +20,8 @@ export class HomePage {
 
   constructor(private productsProvider: ProductsProvider, public navCtrl: NavController) {
       this.productsList$ = this.productsProvider.getMainProductsList();
+      console.log('productlist$');
+      console.log(this.productsList$);
   }
 
   ionViewWillEnter() {

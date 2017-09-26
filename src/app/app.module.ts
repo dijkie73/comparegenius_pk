@@ -20,6 +20,7 @@ import { firebaseConfig } from '../environment';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 
 import { ComponentsModule } from '../components/components.module';
+import { FeaturesProvider } from '../providers/features/features';
 
 //import { FaIconComponent } from "../components/fa-icon/fa-icon";
 
@@ -53,7 +54,8 @@ import { ComponentsModule } from '../components/components.module';
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     CategoriesProvider,
-    ProductsProvider
+    ProductsProvider,
+    FeaturesProvider
   ]
 })
 export class AppModule {}
