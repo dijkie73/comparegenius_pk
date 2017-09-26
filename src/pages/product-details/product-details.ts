@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { NavController, NavParams } from 'ionic-angular';
+import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { Product } from '../../model/ecommerce';
 import * as Constant from '../../environment';
 import { FirebaseListObservable } from 'angularfire2/database';
@@ -17,6 +17,7 @@ declare var gtag: Function;
  * Ionic pages and navigation.
  */
 
+@IonicPage({})
 @Component({
   selector: 'page-product-details',
   templateUrl: 'product-details.html',
@@ -55,7 +56,7 @@ export class ProductDetailsPage {
   }
 
   ionViewWillEnter() {
-      console.log('ionViewWillEnter MenuPage');
+      console.log('ionViewWillEnter ProductDetailsPage');
       gtag('config', Constant.GA_TRACKING_ID, {
           'page_title': this.product.title,
           'page_location': 'https://www.comparegenius.com/' + this.product.urlName,

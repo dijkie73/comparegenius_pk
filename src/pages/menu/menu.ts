@@ -1,7 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
-import { NavController, NavParams } from 'ionic-angular';
-import { HomePage } from '../home/home';
-import { ProductsByCategoryPage } from '../products-by-category/products-by-category';
+import { IonicPage, NavController, NavParams } from 'ionic-angular';
+//import { HomePage } from '../home/home';
+//import { ProductsByCategoryPage } from '../products-by-category/products-by-category';
 import { CategoriesProvider } from '../../providers/categories/categories';
 import { Category } from '../../model/ecommerce';
 import { FirebaseListObservable } from 'angularfire2/database';
@@ -9,12 +9,15 @@ import * as Constant from '../../environment';
 
 declare var gtag: Function;
 
+@IonicPage({})
 @Component({
   selector: 'page-menu',
   templateUrl: 'menu.html',
 })
 export class Menu {
     homePage: any;
+    language: string = Constant.globalSettings.languageId;
+
     categoryList$: FirebaseListObservable<Category[]> = null; //  observable list of categories
 
     @ViewChild('content') childNavCtrl: NavController;
@@ -24,7 +27,7 @@ export class Menu {
         public navCtrl: NavController,
         public navParams: NavParams) {
 
-        this.homePage = HomePage;
+        this.homePage = 'HomePage';
         this.categoryList$ = this.categoryProvider.getMainCategoriesList();
     }
 
@@ -53,7 +56,7 @@ export class Menu {
   openCategoryPage(category) {
       // Reset the content nav to have just this page
       // we wouldn't want the back button to show in this scenario
-      this.childNavCtrl.setRoot(ProductsByCategoryPage, { "category": category});
+      this.childNavCtrl.setRoot('ProductsByCategoryPage', { "category": category});
   }
 
   openHomePage() {

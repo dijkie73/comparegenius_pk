@@ -1,20 +1,23 @@
 import { Component, ViewChild } from '@angular/core';
-import { NavController, Slides } from 'ionic-angular';
+import { IonicPage, NavController, Slides } from 'ionic-angular';
 import * as Constant from '../../environment';
 
 import { FirebaseListObservable } from 'angularfire2/database';
 import { ProductsProvider } from '../../providers/products/products';
-import { ProductDetailsPage } from '../product-details/product-details';
+//import { ProductDetailsPage } from '../product-details/product-details';
+//import { SearchPage } from '../search/search';
 import { Product } from '../../model/ecommerce';
 
 declare var gtag: Function;
 
+@IonicPage({})
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
 })
 export class HomePage {
   productsList$: FirebaseListObservable<Product[]> = null; //  list of products
+  searchQuery: string = "";
 
   @ViewChild('productSlides') productSlides: Slides;
 
@@ -51,7 +54,12 @@ export class HomePage {
   }
 
   openProductPage(product) {
-      this.navCtrl.push(ProductDetailsPage, { "product": product });
+      this.navCtrl.push('ProductDetailsPage', { "product": product });
   }
 
+  onSearch(event) {
+      if (this.searchQuery.length > 1) {
+          this.navCtrl.push('SearchPage', { "searchQuery": this.searchQuery });
+      }
+  }
 }

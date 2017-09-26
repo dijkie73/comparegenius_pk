@@ -1,16 +1,17 @@
 import { Component } from '@angular/core';
-import { NavController, NavParams } from 'ionic-angular';
+import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ProductsProvider } from '../../providers/products/products';
 import { Product, Category } from '../../model/ecommerce';
-import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
+import { FirebaseListObservable } from 'angularfire2/database';
 import * as Constant from '../../environment';
 
-import { ProductDetailsPage } from '../product-details/product-details';
+//import { ProductDetailsPage } from '../product-details/product-details';
 
 //import { FeaturesProvider } from '../../providers/features/features';
 
 declare var gtag: Function;
-  
+
+@IonicPage({})
 @Component({
   selector: 'page-products-by-category',
   templateUrl: 'products-by-category.html',
@@ -20,7 +21,6 @@ export class ProductsByCategoryPage {
     productsList: FirebaseListObservable<Product[]> = null; //  list of products
 
     products: any[];
-    productsProvider: ProductsProvider;
     prod: Product = new Product();
 
     offset = 2;
@@ -32,11 +32,10 @@ export class ProductsByCategoryPage {
     page: number;
     category: Category;
 
-    constructor(public db: AngularFireDatabase, public navCtrl: NavController, public navParams: NavParams) {
+    constructor(private productsProvider: ProductsProvider, public navCtrl: NavController, public navParams: NavParams) {
         this.page = 1;
         this.category = navParams.get("category");
 
-        this.productsProvider = new ProductsProvider(db);
         this.productsList = this.productsProvider.getMainProductsList();
 
         //var fprov: FeaturesProvider;
@@ -89,6 +88,6 @@ export class ProductsByCategoryPage {
   }
 
   openProductPage(product) {
-      this.navCtrl.push(ProductDetailsPage, { "product": product });
+      this.navCtrl.push('ProductDetailsPage', { "product": product });
   }
 }

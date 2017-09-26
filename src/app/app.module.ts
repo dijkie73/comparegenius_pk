@@ -3,11 +3,12 @@ import { ErrorHandler, NgModule } from '@angular/core';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
 
 import { MyApp } from './app.component';
-import { HomePage } from '../pages/home/home';
-import { ListPage } from '../pages/list/list';
-import { Menu } from '../pages/menu/menu';
-import { ProductsByCategoryPage } from '../pages/products-by-category/products-by-category';
-import { ProductDetailsPage } from '../pages/product-details/product-details';
+//import { HomePage } from '../pages/home/home';
+//import { ListPage } from '../pages/list/list';
+//import { Menu } from '../pages/menu/menu';
+//import { ProductsByCategoryPage } from '../pages/products-by-category/products-by-category';
+//import { ProductDetailsPage } from '../pages/product-details/product-details';
+//import { SearchPage } from '../pages/search/search';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -26,13 +27,7 @@ import { FeaturesProvider } from '../providers/features/features';
 
 @NgModule({
   declarations: [
-    MyApp,
-    HomePage,
-    ListPage,
-    ProductsByCategoryPage,
-    ProductDetailsPage,
-    Menu
-  ],
+    MyApp  ],
   imports: [
     BrowserModule,
     IonicModule.forRoot(MyApp),
@@ -42,12 +37,7 @@ import { FeaturesProvider } from '../providers/features/features';
   ],
   bootstrap: [IonicApp],
   entryComponents: [
-    MyApp,
-    HomePage,
-    ListPage,
-    ProductsByCategoryPage,
-    ProductDetailsPage,
-    Menu
+    MyApp
   ],
   providers: [
     StatusBar,

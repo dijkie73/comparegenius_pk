@@ -3,8 +3,6 @@ import { Nav, Platform } from 'ionic-angular';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
-import { Menu } from '../pages/menu/menu';
-
 declare const ENV: any;
 
 @Component({
@@ -13,7 +11,7 @@ declare const ENV: any;
 export class MyApp {
   @ViewChild(Nav) nav: Nav;
 
-  rootPage: any = Menu;
+  rootPage: any = 'Menu';
 
   pages: Array<{title: string, component: any}>;
 
